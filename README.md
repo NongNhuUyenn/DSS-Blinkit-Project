@@ -52,5 +52,5 @@ The main notebook is:
 
 ```text
 
-member3\_forecast\_prediction\_ready\_fixed.ipynb
+\member3\_forecast\_prediction\_ready\_fixed.ipynb
 
