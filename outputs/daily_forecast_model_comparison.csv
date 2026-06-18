@@ -1,0 +1,7 @@
+target,model,MAE,RMSE
+daily_revenue,7-day Moving Average,3453.5860411622284,4196.035047822789
+daily_revenue,Linear Regression,3072.1084435716807,3821.266266741995
+daily_revenue,Random Forest Regressor,3067.4922911138337,3880.304316569112
+daily_orders,7-day Moving Average,2.690072639225182,3.3643603832904767
+daily_orders,Linear Regression,2.5251219224625,3.1138315296352874
+daily_orders,Random Forest Regressor,2.4990529713703293,3.166201950114432

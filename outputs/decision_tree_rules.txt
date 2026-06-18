@@ -1,0 +1,40 @@
+|--- num__lifetime_avg_order_value <= 225.78
+|   |--- class: 0
+|--- num__lifetime_avg_order_value >  225.78
+|   |--- num__order_total_clean <= 251.07
+|   |   |--- cat__customer_segment_Inactive <= 0.50
+|   |   |   |--- num__order_hour <= 16.50
+|   |   |   |   |--- num__day_of_week <= 2.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- num__day_of_week >  2.50
+|   |   |   |   |   |--- class: 0
+|   |   |   |--- num__order_hour >  16.50
+|   |   |   |   |--- num__order_total_clean <= 154.36
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- num__order_total_clean >  154.36
+|   |   |   |   |   |--- class: 0
+|   |   |--- cat__customer_segment_Inactive >  0.50
+|   |   |   |--- num__mrp <= 161.03
+|   |   |   |   |--- class: 0
+|   |   |   |--- num__mrp >  161.03
+|   |   |   |   |--- class: 0
+|   |--- num__order_total_clean >  251.07
+|   |   |--- num__mrp <= 497.09
+|   |   |   |--- num__order_total_clean <= 877.12
+|   |   |   |   |--- num__month <= 4.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- num__month >  4.50
+|   |   |   |   |   |--- class: 1
+|   |   |   |--- num__order_total_clean >  877.12
+|   |   |   |   |--- num__lifetime_avg_order_value <= 1235.61
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- num__lifetime_avg_order_value >  1235.61
+|   |   |   |   |   |--- class: 1
+|   |   |--- num__mrp >  497.09
+|   |   |   |--- num__order_total_clean <= 408.79
+|   |   |   |   |--- class: 0
+|   |   |   |--- num__order_total_clean >  408.79
+|   |   |   |   |--- num__order_total_clean <= 867.00
+|   |   |   |   |   |--- class: 1
+|   |   |   |   |--- num__order_total_clean >  867.00
+|   |   |   |   |   |--- class: 0
