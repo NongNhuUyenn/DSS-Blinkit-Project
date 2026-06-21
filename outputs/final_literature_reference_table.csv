@@ -1,0 +1,3 @@
+﻿topic,method,why_relevant,reference
+Advanced recent tabular model,TabPFN / Tabular Prior-data Fitted Network,Foundation model for tabular classification; suitable for small-to-medium tabular datasets. Used as optional advanced model if installed.,"Hollmann et al., Accurate predictions on small data with a tabular foundation model, Nature, 2025."
+Strong classical tabular baseline,Random Forest / Extra Trees / Gradient Boosting,Tree-based models are robust baselines for structured tabular data and provide feature importance for interpretation.,Standard supervised machine learning baselines used for comparison.

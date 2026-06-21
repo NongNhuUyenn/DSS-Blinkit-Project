@@ -1,0 +1,11 @@
+﻿target,target_display,order_day,model,actual,predicted,error,absolute_error
+daily_orders,Số lượng đơn hàng ngày,2024-07-10,Extra Trees Regressor,17,7.947544998222218,9.052455001777782,9.052455001777782
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Extra Trees Regressor,16,8.286332935952068,7.713667064047932,7.713667064047932
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Extra Trees Regressor,3,9.830298209654352,-6.830298209654352,6.830298209654352
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Extra Trees Regressor,15,8.308325627622507,6.691674372377493,6.691674372377493
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Extra Trees Regressor,15,8.566554467885345,6.433445532114655,6.433445532114655
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Extra Trees Regressor,15,8.571028089037162,6.428971910962838,6.428971910962838
+daily_orders,Số lượng đơn hàng ngày,2024-07-11,Extra Trees Regressor,14,7.926412777243479,6.073587222756521,6.073587222756521
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Extra Trees Regressor,14,8.212118255594822,5.787881744405178,5.787881744405178
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Extra Trees Regressor,14,8.351255311219393,5.6487446887806065,5.6487446887806065
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Extra Trees Regressor,15,9.551789714518128,5.448210285481872,5.448210285481872

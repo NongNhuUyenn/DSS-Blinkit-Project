@@ -1,0 +1,11 @@
+﻿target,target_display,order_day,model,actual,predicted,error,absolute_error
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Moving Average 28 days,15,7.571428571428571,7.428571428571429,7.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Moving Average 28 days,15,7.678571428571429,7.321428571428571,7.321428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Moving Average 28 days,16,8.821428571428571,7.178571428571429,7.178571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Moving Average 28 days,15,8.142857142857142,6.857142857142858,6.857142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Moving Average 28 days,15,8.178571428571429,6.821428571428571,6.821428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Moving Average 28 days,14,7.714285714285714,6.285714285714286,6.285714285714286
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Moving Average 28 days,14,8.035714285714286,5.9642857142857135,5.9642857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Moving Average 28 days,3,8.607142857142858,-5.607142857142858,5.607142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Moving Average 28 days,3,8.5,-5.5,5.5
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Moving Average 28 days,13,7.714285714285714,5.285714285714286,5.285714285714286

@@ -1,0 +1,4 @@
+﻿table,n_rows,n_columns,missing_cells,duplicated_rows
+orders_clean,5000,11,0,0
+order_items,5000,4,0,0
+products,268,10,0,0

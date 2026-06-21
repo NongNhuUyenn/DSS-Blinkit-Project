@@ -1,0 +1,11 @@
+﻿target,target_display,order_day,model,actual,predicted,error,absolute_error
+daily_revenue,Doanh thu ngày,2024-08-27,Lasso Regression Tuned with log target,20528.02,7431.3550341478785,13096.664965852122,13096.664965852122
+daily_revenue,Doanh thu ngày,2024-10-26,Lasso Regression Tuned with log target,18552.239999999998,7431.3550341478785,11120.88496585212,11120.88496585212
+daily_revenue,Doanh thu ngày,2024-10-15,Lasso Regression Tuned with log target,17996.29,7431.3550341478785,10564.934965852122,10564.934965852122
+daily_revenue,Doanh thu ngày,2024-07-19,Lasso Regression Tuned with log target,15367.17,7431.3550341478785,7935.8149658521215,7935.8149658521215
+daily_revenue,Doanh thu ngày,2024-09-10,Lasso Regression Tuned with log target,14743.74,7431.3550341478785,7312.384965852121,7312.384965852121
+daily_revenue,Doanh thu ngày,2024-08-05,Lasso Regression Tuned with log target,14536.39,7431.3550341478785,7105.034965852121,7105.034965852121
+daily_revenue,Doanh thu ngày,2024-10-21,Lasso Regression Tuned with log target,14302.970000000001,7431.3550341478785,6871.614965852123,6871.614965852123
+daily_revenue,Doanh thu ngày,2024-08-15,Lasso Regression Tuned with log target,14228.16,7431.3550341478785,6796.804965852121,6796.804965852121
+daily_revenue,Doanh thu ngày,2024-09-23,Lasso Regression Tuned with log target,13544.94,7431.3550341478785,6113.584965852122,6113.584965852122
+daily_revenue,Doanh thu ngày,2024-09-27,Lasso Regression Tuned with log target,13541.37,7431.3550341478785,6110.014965852122,6110.014965852122

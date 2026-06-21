@@ -1,0 +1,1266 @@
+﻿target,target_display,order_day,model,actual,predicted,error,absolute_error
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Naive Forecast,6,12.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Naive Forecast,11,6.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Naive Forecast,7,11.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Naive Forecast,9,7.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Naive Forecast,10,9.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Naive Forecast,6,10.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Naive Forecast,16,6.0,10.0,10.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Naive Forecast,4,16.0,-12.0,12.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Naive Forecast,11,4.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Naive Forecast,8,11.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Naive Forecast,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Naive Forecast,9,9.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Naive Forecast,8,9.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Naive Forecast,6,8.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Naive Forecast,6,6.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Naive Forecast,5,6.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Naive Forecast,6,5.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Naive Forecast,3,6.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Naive Forecast,4,3.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Naive Forecast,9,4.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Naive Forecast,3,9.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Naive Forecast,6,3.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Naive Forecast,15,6.0,9.0,9.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Naive Forecast,10,15.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Naive Forecast,10,10.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Naive Forecast,5,10.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Naive Forecast,7,5.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Naive Forecast,10,7.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Naive Forecast,11,10.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Naive Forecast,10,11.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Naive Forecast,5,10.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Naive Forecast,6,5.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Naive Forecast,8,6.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Naive Forecast,14,8.0,6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Naive Forecast,4,14.0,-10.0,10.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Naive Forecast,7,4.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Naive Forecast,6,7.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Naive Forecast,8,6.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Naive Forecast,7,8.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Naive Forecast,6,7.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Naive Forecast,5,6.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Naive Forecast,10,5.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Naive Forecast,6,10.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Naive Forecast,10,6.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Naive Forecast,7,10.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Naive Forecast,15,7.0,8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Naive Forecast,8,15.0,-7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Naive Forecast,6,8.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Naive Forecast,8,6.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Naive Forecast,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Naive Forecast,4,9.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Naive Forecast,9,4.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Naive Forecast,6,9.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Naive Forecast,8,6.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Naive Forecast,4,8.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Naive Forecast,5,4.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Naive Forecast,7,5.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Naive Forecast,11,7.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Naive Forecast,11,11.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Naive Forecast,15,11.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Naive Forecast,8,15.0,-7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Naive Forecast,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Naive Forecast,7,9.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Naive Forecast,7,7.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Naive Forecast,5,7.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Naive Forecast,9,5.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Naive Forecast,9,9.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Naive Forecast,10,9.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Naive Forecast,4,10.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Naive Forecast,8,4.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Naive Forecast,10,8.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Naive Forecast,4,10.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Naive Forecast,8,4.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Naive Forecast,4,8.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Naive Forecast,11,4.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Naive Forecast,10,11.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Naive Forecast,9,10.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Naive Forecast,11,9.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Naive Forecast,9,11.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Naive Forecast,15,9.0,6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Naive Forecast,7,15.0,-8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Naive Forecast,7,7.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Naive Forecast,5,7.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Naive Forecast,6,5.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Naive Forecast,8,6.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Naive Forecast,8,8.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Naive Forecast,7,8.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Naive Forecast,6,7.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Naive Forecast,5,6.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Naive Forecast,10,5.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Naive Forecast,7,10.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Naive Forecast,4,7.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Naive Forecast,13,4.0,9.0,9.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Naive Forecast,6,13.0,-7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Naive Forecast,12,6.0,6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Naive Forecast,10,12.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Naive Forecast,10,10.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Naive Forecast,4,10.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Naive Forecast,9,4.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Naive Forecast,4,9.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Naive Forecast,14,4.0,10.0,10.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Naive Forecast,6,14.0,-8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Naive Forecast,5,6.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Naive Forecast,13,5.0,8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Naive Forecast,9,13.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Naive Forecast,11,9.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Naive Forecast,5,11.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Naive Forecast,8,5.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Naive Forecast,7,8.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Naive Forecast,13,7.0,6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Naive Forecast,8,13.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Naive Forecast,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Naive Forecast,5,9.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Naive Forecast,12,5.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Naive Forecast,4,12.0,-8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Seasonal Naive 7 days,6,7.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Seasonal Naive 7 days,11,9.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Seasonal Naive 7 days,7,6.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Seasonal Naive 7 days,9,9.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Seasonal Naive 7 days,10,17.0,-7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Seasonal Naive 7 days,6,14.0,-8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Seasonal Naive 7 days,16,12.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Seasonal Naive 7 days,4,6.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Seasonal Naive 7 days,11,11.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Seasonal Naive 7 days,8,7.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Seasonal Naive 7 days,9,9.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Seasonal Naive 7 days,9,10.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Seasonal Naive 7 days,8,6.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Seasonal Naive 7 days,6,16.0,-10.0,10.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Seasonal Naive 7 days,6,4.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Seasonal Naive 7 days,5,11.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Seasonal Naive 7 days,6,8.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Seasonal Naive 7 days,3,9.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Seasonal Naive 7 days,4,9.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Seasonal Naive 7 days,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Seasonal Naive 7 days,3,6.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Seasonal Naive 7 days,6,6.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Seasonal Naive 7 days,15,5.0,10.0,10.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Seasonal Naive 7 days,10,6.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Seasonal Naive 7 days,10,3.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Seasonal Naive 7 days,5,4.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Seasonal Naive 7 days,7,9.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Seasonal Naive 7 days,10,3.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Seasonal Naive 7 days,11,6.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Seasonal Naive 7 days,10,15.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Seasonal Naive 7 days,5,10.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Seasonal Naive 7 days,6,10.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Seasonal Naive 7 days,8,5.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Seasonal Naive 7 days,14,7.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Seasonal Naive 7 days,4,10.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Seasonal Naive 7 days,7,11.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Seasonal Naive 7 days,6,10.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Seasonal Naive 7 days,8,5.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Seasonal Naive 7 days,7,6.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Seasonal Naive 7 days,6,8.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Seasonal Naive 7 days,5,14.0,-9.0,9.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Seasonal Naive 7 days,10,4.0,6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Seasonal Naive 7 days,6,7.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Seasonal Naive 7 days,10,6.0,4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Seasonal Naive 7 days,7,8.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Seasonal Naive 7 days,15,7.0,8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Seasonal Naive 7 days,8,6.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Seasonal Naive 7 days,6,5.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Seasonal Naive 7 days,8,10.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Seasonal Naive 7 days,9,6.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Seasonal Naive 7 days,4,10.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Seasonal Naive 7 days,9,7.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Seasonal Naive 7 days,6,15.0,-9.0,9.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Seasonal Naive 7 days,8,8.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Seasonal Naive 7 days,4,6.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Seasonal Naive 7 days,5,8.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Seasonal Naive 7 days,7,9.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Seasonal Naive 7 days,11,4.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Seasonal Naive 7 days,11,9.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Seasonal Naive 7 days,15,6.0,9.0,9.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Seasonal Naive 7 days,8,8.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Seasonal Naive 7 days,9,4.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Seasonal Naive 7 days,7,5.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Seasonal Naive 7 days,7,7.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Seasonal Naive 7 days,5,11.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Seasonal Naive 7 days,9,11.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Seasonal Naive 7 days,9,15.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Seasonal Naive 7 days,10,8.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Seasonal Naive 7 days,4,9.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Seasonal Naive 7 days,8,7.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Seasonal Naive 7 days,10,7.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Seasonal Naive 7 days,4,5.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Seasonal Naive 7 days,8,9.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Seasonal Naive 7 days,4,9.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Seasonal Naive 7 days,11,10.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Seasonal Naive 7 days,10,4.0,6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Seasonal Naive 7 days,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Seasonal Naive 7 days,11,10.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Seasonal Naive 7 days,9,4.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Seasonal Naive 7 days,15,8.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Seasonal Naive 7 days,7,4.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Seasonal Naive 7 days,7,11.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Seasonal Naive 7 days,5,10.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Seasonal Naive 7 days,6,9.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Seasonal Naive 7 days,8,11.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Seasonal Naive 7 days,8,9.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Seasonal Naive 7 days,7,15.0,-8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Seasonal Naive 7 days,6,7.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Seasonal Naive 7 days,5,7.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Seasonal Naive 7 days,10,5.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Seasonal Naive 7 days,7,6.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Seasonal Naive 7 days,4,8.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Seasonal Naive 7 days,13,8.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Seasonal Naive 7 days,6,7.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Seasonal Naive 7 days,12,6.0,6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Seasonal Naive 7 days,10,5.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Seasonal Naive 7 days,10,10.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Seasonal Naive 7 days,4,7.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Seasonal Naive 7 days,9,4.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Seasonal Naive 7 days,4,13.0,-9.0,9.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Seasonal Naive 7 days,14,6.0,8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Seasonal Naive 7 days,6,12.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Seasonal Naive 7 days,5,10.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Seasonal Naive 7 days,13,10.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Seasonal Naive 7 days,9,4.0,5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Seasonal Naive 7 days,11,9.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Seasonal Naive 7 days,5,4.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Seasonal Naive 7 days,8,14.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Seasonal Naive 7 days,7,6.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Seasonal Naive 7 days,13,5.0,8.0,8.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Seasonal Naive 7 days,8,13.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Seasonal Naive 7 days,9,9.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Seasonal Naive 7 days,5,11.0,-6.0,6.0
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Seasonal Naive 7 days,12,5.0,7.0,7.0
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Seasonal Naive 7 days,4,8.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Moving Average 7 days,6,10.571428571428571,-4.571428571428571,4.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Moving Average 7 days,11,10.428571428571429,0.5714285714285712,0.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Moving Average 7 days,7,10.714285714285714,-3.7142857142857135,3.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Moving Average 7 days,9,10.857142857142858,-1.8571428571428577,1.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Moving Average 7 days,10,10.857142857142858,-0.8571428571428577,0.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Moving Average 7 days,6,9.857142857142858,-3.8571428571428577,3.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Moving Average 7 days,16,8.714285714285714,7.2857142857142865,7.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Moving Average 7 days,4,9.285714285714286,-5.2857142857142865,5.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Moving Average 7 days,11,9.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Moving Average 7 days,8,9.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Moving Average 7 days,9,9.142857142857142,-0.14285714285714235,0.14285714285714235
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Moving Average 7 days,9,9.142857142857142,-0.14285714285714235,0.14285714285714235
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Moving Average 7 days,8,9.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Moving Average 7 days,6,9.285714285714286,-3.2857142857142865,3.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Moving Average 7 days,6,7.857142857142857,-1.8571428571428568,1.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Moving Average 7 days,5,8.142857142857142,-3.1428571428571423,3.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Moving Average 7 days,6,7.285714285714286,-1.2857142857142856,1.2857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Moving Average 7 days,3,7.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Moving Average 7 days,4,6.142857142857143,-2.1428571428571432,2.1428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Moving Average 7 days,9,5.428571428571429,3.571428571428571,3.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Moving Average 7 days,3,5.571428571428571,-2.571428571428571,2.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Moving Average 7 days,6,5.142857142857143,0.8571428571428568,0.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Moving Average 7 days,15,5.142857142857143,9.857142857142858,9.857142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Moving Average 7 days,10,6.571428571428571,3.428571428571429,3.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Moving Average 7 days,10,7.142857142857143,2.8571428571428568,2.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Moving Average 7 days,5,8.142857142857142,-3.1428571428571423,3.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Moving Average 7 days,7,8.285714285714286,-1.2857142857142865,1.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Moving Average 7 days,10,8.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Moving Average 7 days,11,9.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Moving Average 7 days,10,9.714285714285714,0.2857142857142865,0.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Moving Average 7 days,5,9.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Moving Average 7 days,6,8.285714285714286,-2.2857142857142865,2.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Moving Average 7 days,8,7.714285714285714,0.2857142857142856,0.2857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Moving Average 7 days,14,8.142857142857142,5.857142857142858,5.857142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Moving Average 7 days,4,9.142857142857142,-5.142857142857142,5.142857142857142
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Moving Average 7 days,7,8.285714285714286,-1.2857142857142865,1.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Moving Average 7 days,6,7.714285714285714,-1.7142857142857144,1.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Moving Average 7 days,8,7.142857142857143,0.8571428571428568,0.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Moving Average 7 days,7,7.571428571428571,-0.5714285714285712,0.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Moving Average 7 days,6,7.714285714285714,-1.7142857142857144,1.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Moving Average 7 days,5,7.428571428571429,-2.428571428571429,2.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Moving Average 7 days,10,6.142857142857143,3.8571428571428568,3.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Moving Average 7 days,6,7.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Moving Average 7 days,10,6.857142857142857,3.1428571428571432,3.1428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Moving Average 7 days,7,7.428571428571429,-0.4285714285714288,0.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Moving Average 7 days,15,7.285714285714286,7.714285714285714,7.714285714285714
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Moving Average 7 days,8,8.428571428571429,-0.4285714285714288,0.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Moving Average 7 days,6,8.714285714285714,-2.7142857142857135,2.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Moving Average 7 days,8,8.857142857142858,-0.8571428571428577,0.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Moving Average 7 days,9,8.571428571428571,0.4285714285714288,0.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Moving Average 7 days,4,9.0,-5.0,5.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Moving Average 7 days,9,8.142857142857142,0.8571428571428577,0.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Moving Average 7 days,6,8.428571428571429,-2.428571428571429,2.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Moving Average 7 days,8,7.142857142857143,0.8571428571428568,0.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Moving Average 7 days,4,7.142857142857143,-3.1428571428571432,3.1428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Moving Average 7 days,5,6.857142857142857,-1.8571428571428568,1.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Moving Average 7 days,7,6.428571428571429,0.5714285714285712,0.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Moving Average 7 days,11,6.142857142857143,4.857142857142857,4.857142857142857
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Moving Average 7 days,11,7.142857142857143,3.8571428571428568,3.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Moving Average 7 days,15,7.428571428571429,7.571428571428571,7.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Moving Average 7 days,8,8.714285714285714,-0.7142857142857135,0.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Moving Average 7 days,9,8.714285714285714,0.2857142857142865,0.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Moving Average 7 days,7,9.428571428571429,-2.428571428571429,2.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Moving Average 7 days,7,9.714285714285714,-2.7142857142857135,2.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Moving Average 7 days,5,9.714285714285714,-4.7142857142857135,4.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Moving Average 7 days,9,8.857142857142858,0.14285714285714235,0.14285714285714235
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Moving Average 7 days,9,8.571428571428571,0.4285714285714288,0.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Moving Average 7 days,10,7.714285714285714,2.2857142857142856,2.2857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Moving Average 7 days,4,8.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Moving Average 7 days,8,7.285714285714286,0.7142857142857144,0.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Moving Average 7 days,10,7.428571428571429,2.571428571428571,2.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Moving Average 7 days,4,7.857142857142857,-3.8571428571428568,3.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Moving Average 7 days,8,7.714285714285714,0.2857142857142856,0.2857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Moving Average 7 days,4,7.571428571428571,-3.571428571428571,3.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Moving Average 7 days,11,6.857142857142857,4.142857142857143,4.142857142857143
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Moving Average 7 days,10,7.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Moving Average 7 days,9,7.857142857142857,1.1428571428571432,1.1428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Moving Average 7 days,11,8.0,3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Moving Average 7 days,9,8.142857142857142,0.8571428571428577,0.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Moving Average 7 days,15,8.857142857142858,6.142857142857142,6.142857142857142
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Moving Average 7 days,7,9.857142857142858,-2.8571428571428577,2.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Moving Average 7 days,7,10.285714285714286,-3.2857142857142865,3.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Moving Average 7 days,5,9.714285714285714,-4.7142857142857135,4.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Moving Average 7 days,6,9.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Moving Average 7 days,8,8.571428571428571,-0.5714285714285712,0.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Moving Average 7 days,8,8.142857142857142,-0.14285714285714235,0.14285714285714235
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Moving Average 7 days,7,8.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Moving Average 7 days,6,6.857142857142857,-0.8571428571428568,0.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Moving Average 7 days,5,6.714285714285714,-1.7142857142857144,1.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Moving Average 7 days,10,6.428571428571429,3.571428571428571,3.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Moving Average 7 days,7,7.142857142857143,-0.14285714285714324,0.14285714285714324
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Moving Average 7 days,4,7.285714285714286,-3.2857142857142856,3.2857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Moving Average 7 days,13,6.714285714285714,6.285714285714286,6.285714285714286
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Moving Average 7 days,6,7.428571428571429,-1.4285714285714288,1.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Moving Average 7 days,12,7.285714285714286,4.714285714285714,4.714285714285714
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Moving Average 7 days,10,8.142857142857142,1.8571428571428577,1.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Moving Average 7 days,10,8.857142857142858,1.1428571428571423,1.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Moving Average 7 days,4,8.857142857142858,-4.857142857142858,4.857142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Moving Average 7 days,9,8.428571428571429,0.5714285714285712,0.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Moving Average 7 days,4,9.142857142857142,-5.142857142857142,5.142857142857142
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Moving Average 7 days,14,7.857142857142857,6.142857142857143,6.142857142857143
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Moving Average 7 days,6,9.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Moving Average 7 days,5,8.142857142857142,-3.1428571428571423,3.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Moving Average 7 days,13,7.428571428571429,5.571428571428571,5.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Moving Average 7 days,9,7.857142857142857,1.1428571428571432,1.1428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Moving Average 7 days,11,8.571428571428571,2.428571428571429,2.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Moving Average 7 days,5,8.857142857142858,-3.8571428571428577,3.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Moving Average 7 days,8,9.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Moving Average 7 days,7,8.142857142857142,-1.1428571428571423,1.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Moving Average 7 days,13,8.285714285714286,4.7142857142857135,4.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Moving Average 7 days,8,9.428571428571429,-1.4285714285714288,1.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Moving Average 7 days,9,8.714285714285714,0.2857142857142865,0.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Moving Average 7 days,5,8.714285714285714,-3.7142857142857135,3.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Moving Average 7 days,12,7.857142857142857,4.142857142857143,4.142857142857143
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Moving Average 7 days,4,8.857142857142858,-4.857142857142858,4.857142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Moving Average 14 days,6,8.857142857142858,-2.8571428571428577,2.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Moving Average 14 days,11,8.571428571428571,2.428571428571429,2.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Moving Average 14 days,7,9.214285714285714,-2.2142857142857135,2.2142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Moving Average 14 days,9,9.142857142857142,-0.14285714285714235,0.14285714285714235
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Moving Average 14 days,10,9.5,0.5,0.5
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Moving Average 14 days,6,9.571428571428571,-3.571428571428571,3.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Moving Average 14 days,16,9.571428571428571,6.428571428571429,6.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Moving Average 14 days,4,9.928571428571429,-5.928571428571429,5.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Moving Average 14 days,11,9.714285714285714,1.2857142857142865,1.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Moving Average 14 days,8,9.857142857142858,-1.8571428571428577,1.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Moving Average 14 days,9,10.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Moving Average 14 days,9,10.0,-1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Moving Average 14 days,8,9.428571428571429,-1.4285714285714288,1.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Moving Average 14 days,6,9.0,-3.0,3.0
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Moving Average 14 days,6,8.571428571428571,-2.571428571428571,2.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Moving Average 14 days,5,8.571428571428571,-3.571428571428571,3.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Moving Average 14 days,6,8.142857142857142,-2.1428571428571423,2.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Moving Average 14 days,3,8.071428571428571,-5.071428571428571,5.071428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Moving Average 14 days,4,7.642857142857143,-3.6428571428571432,3.6428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Moving Average 14 days,9,7.214285714285714,1.7857142857142856,1.7857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Moving Average 14 days,3,7.428571428571429,-4.428571428571429,4.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Moving Average 14 days,6,6.5,-0.5,0.5
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Moving Average 14 days,15,6.642857142857143,8.357142857142858,8.357142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Moving Average 14 days,10,6.928571428571429,3.071428571428571,3.071428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Moving Average 14 days,10,7.071428571428571,2.928571428571429,2.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Moving Average 14 days,5,7.142857142857143,-2.1428571428571432,2.1428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Moving Average 14 days,7,6.857142857142857,0.14285714285714324,0.14285714285714324
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Moving Average 14 days,10,6.785714285714286,3.2142857142857144,3.2142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Moving Average 14 days,11,7.071428571428571,3.928571428571429,3.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Moving Average 14 days,10,7.428571428571429,2.571428571428571,2.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Moving Average 14 days,5,7.785714285714286,-2.7857142857142856,2.7857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Moving Average 14 days,6,7.714285714285714,-1.7142857142857144,1.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Moving Average 14 days,8,7.928571428571429,0.07142857142857117,0.07142857142857117
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Moving Average 14 days,14,8.214285714285714,5.7857142857142865,5.7857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Moving Average 14 days,4,8.571428571428571,-4.571428571428571,4.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Moving Average 14 days,7,8.642857142857142,-1.6428571428571423,1.6428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Moving Average 14 days,6,8.714285714285714,-2.7142857142857135,2.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Moving Average 14 days,8,8.071428571428571,-0.07142857142857117,0.07142857142857117
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Moving Average 14 days,7,7.928571428571429,-0.9285714285714288,0.9285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Moving Average 14 days,6,7.714285714285714,-1.7142857142857144,1.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Moving Average 14 days,5,7.785714285714286,-2.7857142857142856,2.7857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Moving Average 14 days,10,7.642857142857143,2.3571428571428568,2.3571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Moving Average 14 days,6,7.642857142857143,-1.6428571428571432,1.6428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Moving Average 14 days,10,7.285714285714286,2.7142857142857144,2.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Moving Average 14 days,7,7.285714285714286,-0.2857142857142856,0.2857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Moving Average 14 days,15,7.428571428571429,7.571428571428571,7.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Moving Average 14 days,8,8.071428571428571,-0.07142857142857117,0.07142857142857117
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Moving Average 14 days,6,8.071428571428571,-2.071428571428571,2.071428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Moving Average 14 days,8,7.5,0.5,0.5
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Moving Average 14 days,9,7.785714285714286,1.2142857142857144,1.2142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Moving Average 14 days,4,7.928571428571429,-3.928571428571429,3.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Moving Average 14 days,9,7.785714285714286,1.2142857142857144,1.2142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Moving Average 14 days,6,7.857142857142857,-1.8571428571428568,1.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Moving Average 14 days,8,7.785714285714286,0.2142857142857144,0.2142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Moving Average 14 days,4,7.928571428571429,-3.928571428571429,3.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Moving Average 14 days,5,7.857142857142857,-2.8571428571428568,2.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Moving Average 14 days,7,7.5,-0.5,0.5
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Moving Average 14 days,11,7.571428571428571,3.428571428571429,3.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Moving Average 14 days,11,7.642857142857143,3.3571428571428568,3.3571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Moving Average 14 days,15,7.928571428571429,7.071428571428571,7.071428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Moving Average 14 days,8,7.928571428571429,0.07142857142857117,0.07142857142857117
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Moving Average 14 days,9,7.928571428571429,1.0714285714285712,1.0714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Moving Average 14 days,7,8.142857142857142,-1.1428571428571423,1.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Moving Average 14 days,7,8.071428571428571,-1.0714285714285712,1.0714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Moving Average 14 days,5,7.928571428571429,-2.928571428571429,2.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Moving Average 14 days,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Moving Average 14 days,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Moving Average 14 days,10,8.214285714285714,1.7857142857142865,1.7857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Moving Average 14 days,4,8.357142857142858,-4.357142857142858,4.357142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Moving Average 14 days,8,8.357142857142858,-0.35714285714285765,0.35714285714285765
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Moving Average 14 days,10,8.571428571428571,1.4285714285714288,1.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Moving Average 14 days,4,8.785714285714286,-4.7857142857142865,4.7857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Moving Average 14 days,8,8.285714285714286,-0.2857142857142865,0.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Moving Average 14 days,4,8.071428571428571,-4.071428571428571,4.071428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Moving Average 14 days,11,7.285714285714286,3.7142857142857144,3.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Moving Average 14 days,10,7.5,2.5,2.5
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Moving Average 14 days,9,7.571428571428571,1.4285714285714288,1.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Moving Average 14 days,11,7.714285714285714,3.2857142857142856,3.2857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Moving Average 14 days,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Moving Average 14 days,15,8.285714285714286,6.7142857142857135,6.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Moving Average 14 days,7,8.714285714285714,-1.7142857142857135,1.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Moving Average 14 days,7,8.571428571428571,-1.5714285714285712,1.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Moving Average 14 days,5,8.357142857142858,-3.3571428571428577,3.3571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Moving Average 14 days,6,8.428571428571429,-2.428571428571429,2.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Moving Average 14 days,8,8.285714285714286,-0.2857142857142865,0.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Moving Average 14 days,8,8.142857142857142,-0.14285714285714235,0.14285714285714235
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Moving Average 14 days,7,8.428571428571429,-1.4285714285714288,1.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Moving Average 14 days,6,8.357142857142858,-2.3571428571428577,2.3571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Moving Average 14 days,5,8.5,-3.5,3.5
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Moving Average 14 days,10,8.071428571428571,1.9285714285714288,1.9285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Moving Average 14 days,7,8.071428571428571,-1.0714285714285712,1.0714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Moving Average 14 days,4,7.928571428571429,-3.928571428571429,3.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Moving Average 14 days,13,7.428571428571429,5.571428571428571,5.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Moving Average 14 days,6,7.714285714285714,-1.7142857142857144,1.7142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Moving Average 14 days,12,7.071428571428571,4.928571428571429,4.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Moving Average 14 days,10,7.428571428571429,2.571428571428571,2.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Moving Average 14 days,10,7.642857142857143,2.3571428571428568,2.3571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Moving Average 14 days,4,8.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Moving Average 14 days,9,7.857142857142857,1.1428571428571432,1.1428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Moving Average 14 days,4,7.928571428571429,-3.928571428571429,3.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Moving Average 14 days,14,7.642857142857143,6.357142857142857,6.357142857142857
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Moving Average 14 days,6,8.142857142857142,-2.1428571428571423,2.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Moving Average 14 days,5,8.142857142857142,-3.1428571428571423,3.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Moving Average 14 days,13,8.142857142857142,4.857142857142858,4.857142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Moving Average 14 days,9,8.357142857142858,0.6428571428571423,0.6428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Moving Average 14 days,11,8.5,2.5,2.5
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Moving Average 14 days,5,9.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Moving Average 14 days,8,8.428571428571429,-0.4285714285714288,0.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Moving Average 14 days,7,8.571428571428571,-1.5714285714285712,1.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Moving Average 14 days,13,8.214285714285714,4.7857142857142865,4.7857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Moving Average 14 days,8,8.428571428571429,-0.4285714285714288,0.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Moving Average 14 days,9,8.285714285714286,0.7142857142857135,0.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Moving Average 14 days,5,8.642857142857142,-3.6428571428571423,3.6428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Moving Average 14 days,12,8.357142857142858,3.6428571428571423,3.6428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Moving Average 14 days,4,8.928571428571429,-4.928571428571429,4.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Moving Average 28 days,6,8.928571428571429,-2.928571428571429,2.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Moving Average 28 days,11,8.892857142857142,2.1071428571428577,2.1071428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Moving Average 28 days,7,8.928571428571429,-1.9285714285714288,1.9285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Moving Average 28 days,9,8.714285714285714,0.2857142857142865,0.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Moving Average 28 days,10,8.714285714285714,1.2857142857142865,1.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Moving Average 28 days,6,8.821428571428571,-2.821428571428571,2.821428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Moving Average 28 days,16,8.821428571428571,7.178571428571429,7.178571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Moving Average 28 days,4,8.857142857142858,-4.857142857142858,4.857142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Moving Average 28 days,11,8.821428571428571,2.178571428571429,2.178571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Moving Average 28 days,8,8.678571428571429,-0.6785714285714288,0.6785714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Moving Average 28 days,9,8.607142857142858,0.39285714285714235,0.39285714285714235
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Moving Average 28 days,9,8.785714285714286,0.21428571428571352,0.21428571428571352
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Moving Average 28 days,8,8.714285714285714,-0.7142857142857135,0.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Moving Average 28 days,6,8.75,-2.75,2.75
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Moving Average 28 days,6,8.714285714285714,-2.7142857142857135,2.7142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Moving Average 28 days,5,8.571428571428571,-3.571428571428571,3.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Moving Average 28 days,6,8.678571428571429,-2.678571428571429,2.678571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Moving Average 28 days,3,8.607142857142858,-5.607142857142858,5.607142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Moving Average 28 days,4,8.571428571428571,-4.571428571428571,4.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Moving Average 28 days,9,8.392857142857142,0.6071428571428577,0.6071428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Moving Average 28 days,3,8.5,-5.5,5.5
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Moving Average 28 days,6,8.214285714285714,-2.2142857142857135,2.2142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Moving Average 28 days,15,8.178571428571429,6.821428571428571,6.821428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Moving Average 28 days,10,8.392857142857142,1.6071428571428577,1.6071428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Moving Average 28 days,10,8.535714285714286,1.4642857142857135,1.4642857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Moving Average 28 days,5,8.571428571428571,-3.571428571428571,3.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Moving Average 28 days,7,8.142857142857142,-1.1428571428571423,1.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Moving Average 28 days,10,7.892857142857143,2.1071428571428568,2.1071428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Moving Average 28 days,11,7.821428571428571,3.178571428571429,3.178571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Moving Average 28 days,10,8.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Moving Average 28 days,5,7.964285714285714,-2.9642857142857144,2.9642857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Moving Average 28 days,6,7.892857142857143,-1.8928571428571432,1.8928571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Moving Average 28 days,8,7.785714285714286,0.2142857142857144,0.2142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Moving Average 28 days,14,7.714285714285714,6.285714285714286,6.285714285714286
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Moving Average 28 days,4,8.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Moving Average 28 days,7,7.571428571428571,-0.5714285714285712,0.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Moving Average 28 days,6,7.678571428571429,-1.6785714285714288,1.6785714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Moving Average 28 days,8,7.5,0.5,0.5
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Moving Average 28 days,7,7.5,-0.5,0.5
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Moving Average 28 days,6,7.428571428571429,-1.4285714285714288,1.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Moving Average 28 days,5,7.321428571428571,-2.321428571428571,2.321428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Moving Average 28 days,10,7.214285714285714,2.7857142857142856,2.7857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Moving Average 28 days,6,7.357142857142857,-1.3571428571428568,1.3571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Moving Average 28 days,10,7.357142857142857,2.6428571428571432,2.6428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Moving Average 28 days,7,7.535714285714286,-0.5357142857142856,0.5357142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Moving Average 28 days,15,7.571428571428571,7.428571428571429,7.428571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Moving Average 28 days,8,8.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Moving Average 28 days,6,8.142857142857142,-2.1428571428571423,2.1428571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Moving Average 28 days,8,8.035714285714286,-0.035714285714286476,0.035714285714286476
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Moving Average 28 days,9,8.214285714285714,0.7857142857142865,0.7857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Moving Average 28 days,4,8.321428571428571,-4.321428571428571,4.321428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Moving Average 28 days,9,7.928571428571429,1.0714285714285712,1.0714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Moving Average 28 days,6,7.892857142857143,-1.8928571428571432,1.8928571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Moving Average 28 days,8,7.75,0.25,0.25
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Moving Average 28 days,4,7.857142857142857,-3.8571428571428568,3.8571428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Moving Average 28 days,5,7.75,-2.75,2.75
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Moving Average 28 days,7,7.571428571428571,-0.5714285714285712,0.5714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Moving Average 28 days,11,7.428571428571429,3.571428571428571,3.571428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Moving Average 28 days,11,7.464285714285714,3.5357142857142856,3.5357142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Moving Average 28 days,15,7.678571428571429,7.321428571428571,7.321428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Moving Average 28 days,8,8.0,0.0,0.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Moving Average 28 days,9,8.0,1.0,1.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Moving Average 28 days,7,7.821428571428571,-0.8214285714285712,0.8214285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Moving Average 28 days,7,7.928571428571429,-0.9285714285714288,0.9285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Moving Average 28 days,5,7.928571428571429,-2.928571428571429,2.928571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Moving Average 28 days,9,7.892857142857143,1.1071428571428568,1.1071428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Moving Average 28 days,9,7.928571428571429,1.0714285714285712,1.0714285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Moving Average 28 days,10,8.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Moving Average 28 days,4,8.142857142857142,-4.142857142857142,4.142857142857142
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Moving Average 28 days,8,8.107142857142858,-0.10714285714285765,0.10714285714285765
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Moving Average 28 days,10,8.035714285714286,1.9642857142857135,1.9642857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Moving Average 28 days,4,8.178571428571429,-4.178571428571429,4.178571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Moving Average 28 days,8,7.964285714285714,0.03571428571428559,0.03571428571428559
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Moving Average 28 days,4,8.0,-4.0,4.0
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Moving Average 28 days,11,7.607142857142857,3.3928571428571432,3.3928571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Moving Average 28 days,10,7.714285714285714,2.2857142857142856,2.2857142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Moving Average 28 days,9,7.857142857142857,1.1428571428571432,1.1428571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Moving Average 28 days,11,7.892857142857143,3.1071428571428568,3.1071428571428568
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Moving Average 28 days,9,7.964285714285714,1.0357142857142856,1.0357142857142856
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Moving Average 28 days,15,8.142857142857142,6.857142857142858,6.857142857142858
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Moving Average 28 days,7,8.357142857142858,-1.3571428571428577,1.3571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Moving Average 28 days,7,8.392857142857142,-1.3928571428571423,1.3928571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Moving Average 28 days,5,8.357142857142858,-3.3571428571428577,3.3571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Moving Average 28 days,6,8.392857142857142,-2.3928571428571423,2.3928571428571423
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Moving Average 28 days,8,8.428571428571429,-0.4285714285714288,0.4285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Moving Average 28 days,8,8.464285714285714,-0.4642857142857135,0.4642857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Moving Average 28 days,7,8.357142857142858,-1.3571428571428577,1.3571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Moving Average 28 days,6,8.214285714285714,-2.2142857142857135,2.2142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Moving Average 28 days,5,7.892857142857143,-2.8928571428571432,2.8928571428571432
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Moving Average 28 days,10,7.785714285714286,2.2142857142857144,2.2142857142857144
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Moving Average 28 days,7,7.821428571428571,-0.8214285714285712,0.8214285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Moving Average 28 days,4,7.821428571428571,-3.821428571428571,3.821428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Moving Average 28 days,13,7.714285714285714,5.285714285714286,5.285714285714286
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Moving Average 28 days,6,8.0,-2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Moving Average 28 days,12,7.892857142857143,4.107142857142857,4.107142857142857
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Moving Average 28 days,10,8.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Moving Average 28 days,10,8.0,2.0,2.0
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Moving Average 28 days,4,8.214285714285714,-4.2142857142857135,4.2142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Moving Average 28 days,9,8.071428571428571,0.9285714285714288,0.9285714285714288
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Moving Average 28 days,4,8.035714285714286,-4.0357142857142865,4.0357142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Moving Average 28 days,14,8.035714285714286,5.9642857142857135,5.9642857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Moving Average 28 days,6,8.25,-2.25,2.25
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Moving Average 28 days,5,8.321428571428571,-3.321428571428571,3.321428571428571
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Moving Average 28 days,13,8.107142857142858,4.892857142857142,4.892857142857142
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Moving Average 28 days,9,8.214285714285714,0.7857142857142865,0.7857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Moving Average 28 days,11,8.214285714285714,2.7857142857142865,2.7857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Moving Average 28 days,5,8.214285714285714,-3.2142857142857135,3.2142857142857135
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Moving Average 28 days,8,8.071428571428571,-0.07142857142857117,0.07142857142857117
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Moving Average 28 days,7,7.821428571428571,-0.8214285714285712,0.8214285714285712
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Moving Average 28 days,13,7.821428571428571,5.178571428571429,5.178571428571429
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Moving Average 28 days,8,8.035714285714286,-0.035714285714286476,0.035714285714286476
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Moving Average 28 days,9,8.142857142857142,0.8571428571428577,0.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Moving Average 28 days,5,8.25,-3.25,3.25
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Moving Average 28 days,12,8.142857142857142,3.8571428571428577,3.8571428571428577
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Moving Average 28 days,4,8.285714285714286,-4.2857142857142865,4.2857142857142865
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Ridge Regression Tuned,6,8.326679146592351,-2.326679146592351,2.326679146592351
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Ridge Regression Tuned,11,7.906097816307022,3.093902183692978,3.093902183692978
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Ridge Regression Tuned,7,8.175499278575751,-1.1754992785757512,1.1754992785757512
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Ridge Regression Tuned,9,7.920683085233252,1.079316914766748,1.079316914766748
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Ridge Regression Tuned,10,8.328033279933576,1.6719667200664237,1.6719667200664237
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Ridge Regression Tuned,6,8.255005269805656,-2.2550052698056557,2.2550052698056557
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Ridge Regression Tuned,16,8.367888081142226,7.632111918857774,7.632111918857774
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Ridge Regression Tuned,4,8.277969568364956,-4.277969568364956,4.277969568364956
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Ridge Regression Tuned,11,7.76702203803112,3.2329779619688797,3.2329779619688797
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Ridge Regression Tuned,8,8.026916929571744,-0.026916929571743964,0.026916929571743964
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Ridge Regression Tuned,9,7.997797147649227,1.0022028523507727,1.0022028523507727
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Ridge Regression Tuned,9,8.477949799001829,0.5220502009981711,0.5220502009981711
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Ridge Regression Tuned,8,8.551536714493434,-0.5515367144934338,0.5515367144934338
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Ridge Regression Tuned,6,8.39741717231525,-2.397417172315251,2.397417172315251
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Ridge Regression Tuned,6,8.305244388538886,-2.3052443885388865,2.3052443885388865
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Ridge Regression Tuned,5,8.531337710816599,-3.531337710816599,3.531337710816599
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Ridge Regression Tuned,6,8.147512131584312,-2.147512131584312,2.147512131584312
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Ridge Regression Tuned,3,8.342858925861766,-5.342858925861766,5.342858925861766
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Ridge Regression Tuned,4,8.477358637170754,-4.477358637170754,4.477358637170754
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Ridge Regression Tuned,9,8.89886374979722,0.10113625020277972,0.10113625020277972
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Ridge Regression Tuned,3,9.163349198345117,-6.1633491983451165,6.1633491983451165
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Ridge Regression Tuned,6,8.788056661894446,-2.788056661894446,2.788056661894446
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Ridge Regression Tuned,15,9.213943196423905,5.786056803576095,5.786056803576095
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Ridge Regression Tuned,10,8.542610994158851,1.457389005841149,1.457389005841149
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Ridge Regression Tuned,10,8.465013616617838,1.5349863833821615,1.5349863833821615
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Ridge Regression Tuned,5,8.739474387780724,-3.7394743877807244,3.7394743877807244
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Ridge Regression Tuned,7,8.631349226206723,-1.6313492262067228,1.6313492262067228
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Ridge Regression Tuned,10,8.730149648155457,1.2698503518445428,1.2698503518445428
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Ridge Regression Tuned,11,8.618013564836561,2.381986435163439,2.381986435163439
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Ridge Regression Tuned,10,8.312119103400494,1.6878808965995056,1.6878808965995056
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Ridge Regression Tuned,5,8.433415777202985,-3.4334157772029847,3.4334157772029847
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Ridge Regression Tuned,6,8.394200124675404,-2.394200124675404,2.394200124675404
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Ridge Regression Tuned,8,8.620529084983039,-0.6205290849830387,0.6205290849830387
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Ridge Regression Tuned,14,8.868855772377671,5.131144227622329,5.131144227622329
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Ridge Regression Tuned,4,8.361878132963293,-4.361878132963293,4.361878132963293
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Ridge Regression Tuned,7,8.267403199037602,-1.2674031990376022,1.2674031990376022
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Ridge Regression Tuned,6,8.73410562379977,-2.7341056237997705,2.7341056237997705
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Ridge Regression Tuned,8,8.452782863106709,-0.4527828631067088,0.4527828631067088
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Ridge Regression Tuned,7,8.614070784241344,-1.6140707842413438,1.6140707842413438
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Ridge Regression Tuned,6,8.468815691720234,-2.468815691720234,2.468815691720234
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Ridge Regression Tuned,5,8.632139295456959,-3.632139295456959,3.632139295456959
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Ridge Regression Tuned,10,8.993526131554287,1.0064738684457133,1.0064738684457133
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Ridge Regression Tuned,6,8.928793137725304,-2.928793137725304,2.928793137725304
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Ridge Regression Tuned,10,8.764881574779395,1.2351184252206053,1.2351184252206053
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Ridge Regression Tuned,7,8.533677496763532,-1.5336774967635325,1.5336774967635325
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Ridge Regression Tuned,15,8.571467768690512,6.428532231309488,6.428532231309488
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Ridge Regression Tuned,8,8.574094902713847,-0.5740949027138473,0.5740949027138473
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Ridge Regression Tuned,6,8.60616969631914,-2.6061696963191405,2.6061696963191405
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Ridge Regression Tuned,8,8.488882699039808,-0.48888269903980763,0.48888269903980763
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Ridge Regression Tuned,9,8.429100980925114,0.5708990190748864,0.5708990190748864
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Ridge Regression Tuned,4,8.447136751895084,-4.4471367518950835,4.4471367518950835
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Ridge Regression Tuned,9,8.45083174061681,0.5491682593831904,0.5491682593831904
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Ridge Regression Tuned,6,8.551298283428947,-2.551298283428947,2.551298283428947
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Ridge Regression Tuned,8,8.804227560225302,-0.8042275602253017,0.8042275602253017
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Ridge Regression Tuned,4,8.949171494105729,-4.9491714941057285,4.9491714941057285
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Ridge Regression Tuned,5,8.919380723419861,-3.919380723419861,3.919380723419861
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Ridge Regression Tuned,7,8.75014150401986,-1.7501415040198598,1.7501415040198598
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Ridge Regression Tuned,11,8.878390631356169,2.1216093686438313,2.1216093686438313
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Ridge Regression Tuned,11,8.60412997665258,2.3958700233474204,2.3958700233474204
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Ridge Regression Tuned,15,8.93747861971511,6.06252138028489,6.06252138028489
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Ridge Regression Tuned,8,8.668061176385878,-0.6680611763858781,0.6680611763858781
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Ridge Regression Tuned,9,8.487815661042266,0.5121843389577343,0.5121843389577343
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Ridge Regression Tuned,7,8.847427255514411,-1.8474272555144111,1.8474272555144111
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Ridge Regression Tuned,7,8.624887246994518,-1.6248872469945184,1.6248872469945184
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Ridge Regression Tuned,5,8.395777053496902,-3.395777053496902,3.395777053496902
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Ridge Regression Tuned,9,8.371285280975533,0.6287147190244671,0.6287147190244671
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Ridge Regression Tuned,9,8.427970829530596,0.5720291704694045,0.5720291704694045
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Ridge Regression Tuned,10,8.730884519509036,1.2691154804909637,1.2691154804909637
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Ridge Regression Tuned,4,8.638569968461171,-4.638569968461171,4.638569968461171
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Ridge Regression Tuned,8,8.495808966530593,-0.4958089665305927,0.4958089665305927
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Ridge Regression Tuned,10,8.713244185033814,1.2867558149661864,1.2867558149661864
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Ridge Regression Tuned,4,8.64970809967036,-4.6497080996703595,4.6497080996703595
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Ridge Regression Tuned,8,8.535311828983732,-0.5353118289837315,0.5353118289837315
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Ridge Regression Tuned,4,8.842065479815801,-4.842065479815801,4.842065479815801
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Ridge Regression Tuned,11,8.880106219104812,2.119893780895188,2.119893780895188
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Ridge Regression Tuned,10,9.106526092852569,0.8934739071474311,0.8934739071474311
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Ridge Regression Tuned,9,8.721535260986302,0.27846473901369784,0.27846473901369784
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Ridge Regression Tuned,11,8.710411510344484,2.2895884896555163,2.2895884896555163
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Ridge Regression Tuned,9,8.690707053612394,0.30929294638760574,0.30929294638760574
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Ridge Regression Tuned,15,8.5344093579222,6.4655906420777995,6.4655906420777995
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Ridge Regression Tuned,7,8.830120521175415,-1.8301205211754148,1.8301205211754148
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Ridge Regression Tuned,7,8.689510004164577,-1.6895100041645765,1.6895100041645765
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Ridge Regression Tuned,5,8.745435060621938,-3.745435060621938,3.745435060621938
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Ridge Regression Tuned,6,8.73913918230281,-2.739139182302811,2.739139182302811
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Ridge Regression Tuned,8,8.668726464567118,-0.6687264645671185,0.6687264645671185
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Ridge Regression Tuned,8,8.328110984974574,-0.3281109849745736,0.3281109849745736
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Ridge Regression Tuned,7,8.335401110446115,-1.3354011104461154,1.3354011104461154
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Ridge Regression Tuned,6,8.55665167752066,-2.5566516775206605,2.5566516775206605
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Ridge Regression Tuned,5,9.039889586457278,-4.039889586457278,4.039889586457278
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Ridge Regression Tuned,10,9.030331077448114,0.969668922551886,0.969668922551886
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Ridge Regression Tuned,7,8.998568127278412,-1.9985681272784124,1.9985681272784124
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Ridge Regression Tuned,4,8.855217615339058,-4.855217615339058,4.855217615339058
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Ridge Regression Tuned,13,8.821433639036227,4.178566360963773,4.178566360963773
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Ridge Regression Tuned,6,8.872855435826418,-2.872855435826418,2.872855435826418
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Ridge Regression Tuned,12,8.548680190314352,3.451319809685648,3.451319809685648
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Ridge Regression Tuned,10,8.918431146892424,1.0815688531075764,1.0815688531075764
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Ridge Regression Tuned,10,8.753594935101184,1.2464050648988163,1.2464050648988163
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Ridge Regression Tuned,4,8.807332414631537,-4.807332414631537,4.807332414631537
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Ridge Regression Tuned,9,8.762005250161687,0.2379947498383128,0.2379947498383128
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Ridge Regression Tuned,4,8.779192928034398,-4.779192928034398,4.779192928034398
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Ridge Regression Tuned,14,8.516219824384804,5.4837801756151965,5.4837801756151965
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Ridge Regression Tuned,6,8.573381041663554,-2.573381041663554,2.573381041663554
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Ridge Regression Tuned,5,8.276370537843155,-3.276370537843155,3.276370537843155
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Ridge Regression Tuned,13,8.714456859706601,4.285543140293399,4.285543140293399
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Ridge Regression Tuned,9,8.590079647420467,0.4099203525795332,0.4099203525795332
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Ridge Regression Tuned,11,8.215967618555082,2.784032381444918,2.784032381444918
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Ridge Regression Tuned,5,8.74339481686454,-3.743394816864541,3.743394816864541
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Ridge Regression Tuned,8,8.11845368950915,-0.1184536895091508,0.1184536895091508
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Ridge Regression Tuned,7,8.762950785465575,-1.7629507854655753,1.7629507854655753
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Ridge Regression Tuned,13,8.700353099276363,4.299646900723637,4.299646900723637
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Ridge Regression Tuned,8,8.763934858351757,-0.7639348583517567,0.7639348583517567
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Ridge Regression Tuned,9,8.606156839611373,0.3938431603886272,0.3938431603886272
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Ridge Regression Tuned,5,8.808600051983904,-3.8086000519839036,3.8086000519839036
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Ridge Regression Tuned,12,8.581749111030087,3.4182508889699132,3.4182508889699132
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Ridge Regression Tuned,4,8.889479684292214,-4.889479684292214,4.889479684292214
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Lasso Regression Tuned,11,8.448577680525164,2.5514223194748364,2.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Lasso Regression Tuned,16,8.448577680525164,7.551422319474836,7.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Lasso Regression Tuned,11,8.448577680525164,2.5514223194748364,2.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Lasso Regression Tuned,3,8.448577680525164,-5.448577680525164,5.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Lasso Regression Tuned,3,8.448577680525164,-5.448577680525164,5.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Lasso Regression Tuned,15,8.448577680525164,6.551422319474836,6.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Lasso Regression Tuned,11,8.448577680525164,2.5514223194748364,2.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Lasso Regression Tuned,14,8.448577680525164,5.551422319474836,5.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Lasso Regression Tuned,15,8.448577680525164,6.551422319474836,6.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Lasso Regression Tuned,11,8.448577680525164,2.5514223194748364,2.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Lasso Regression Tuned,11,8.448577680525164,2.5514223194748364,2.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Lasso Regression Tuned,15,8.448577680525164,6.551422319474836,6.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Lasso Regression Tuned,11,8.448577680525164,2.5514223194748364,2.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Lasso Regression Tuned,11,8.448577680525164,2.5514223194748364,2.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Lasso Regression Tuned,15,8.448577680525164,6.551422319474836,6.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Lasso Regression Tuned,13,8.448577680525164,4.551422319474836,4.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Lasso Regression Tuned,12,8.448577680525164,3.5514223194748364,3.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Lasso Regression Tuned,10,8.448577680525164,1.5514223194748364,1.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Lasso Regression Tuned,14,8.448577680525164,5.551422319474836,5.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Lasso Regression Tuned,6,8.448577680525164,-2.4485776805251636,2.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Lasso Regression Tuned,13,8.448577680525164,4.551422319474836,4.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Lasso Regression Tuned,11,8.448577680525164,2.5514223194748364,2.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Lasso Regression Tuned,7,8.448577680525164,-1.4485776805251636,1.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Lasso Regression Tuned,13,8.448577680525164,4.551422319474836,4.551422319474836
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Lasso Regression Tuned,8,8.448577680525164,-0.44857768052516356,0.44857768052516356
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Lasso Regression Tuned,9,8.448577680525164,0.5514223194748364,0.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Lasso Regression Tuned,5,8.448577680525164,-3.4485776805251636,3.4485776805251636
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Lasso Regression Tuned,12,8.448577680525164,3.5514223194748364,3.5514223194748364
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Lasso Regression Tuned,4,8.448577680525164,-4.448577680525164,4.448577680525164
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Random Forest Regressor Tuned,6,8.473715413429254,-2.473715413429254,2.473715413429254
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Random Forest Regressor Tuned,11,8.202217380279253,2.7977826197207474,2.7977826197207474
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Random Forest Regressor Tuned,7,8.364648378095863,-1.364648378095863,1.364648378095863
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Random Forest Regressor Tuned,9,8.14701330529606,0.8529866947039402,0.8529866947039402
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Random Forest Regressor Tuned,10,8.233623054691206,1.766376945308794,1.766376945308794
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Random Forest Regressor Tuned,6,8.162682515130532,-2.1626825151305322,2.1626825151305322
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Random Forest Regressor Tuned,16,8.334410402251157,7.665589597748843,7.665589597748843
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Random Forest Regressor Tuned,4,8.444618050557244,-4.444618050557244,4.444618050557244
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Random Forest Regressor Tuned,11,8.286125239741342,2.7138747602586584,2.7138747602586584
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Random Forest Regressor Tuned,8,8.243664887200383,-0.24366488720038326,0.24366488720038326
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Random Forest Regressor Tuned,9,8.20015654512013,0.7998434548798699,0.7998434548798699
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Random Forest Regressor Tuned,9,8.608640144358587,0.3913598556414133,0.3913598556414133
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Random Forest Regressor Tuned,8,8.505663265027946,-0.5056632650279465,0.5056632650279465
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Random Forest Regressor Tuned,6,8.198357811296074,-2.1983578112960735,2.1983578112960735
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Random Forest Regressor Tuned,6,8.240616328174378,-2.2406163281743776,2.2406163281743776
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Random Forest Regressor Tuned,5,8.326606113806019,-3.326606113806019,3.326606113806019
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Random Forest Regressor Tuned,6,8.316711745191455,-2.316711745191455,2.316711745191455
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Random Forest Regressor Tuned,3,8.404661536251002,-5.404661536251002,5.404661536251002
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Random Forest Regressor Tuned,4,8.527088638893504,-4.527088638893504,4.527088638893504
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Random Forest Regressor Tuned,9,8.663126957552798,0.33687304244720195,0.33687304244720195
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Random Forest Regressor Tuned,3,9.009624340524823,-6.009624340524823,6.009624340524823
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Random Forest Regressor Tuned,6,8.996125717531651,-2.996125717531651,2.996125717531651
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Random Forest Regressor Tuned,15,8.947239500338208,6.052760499661792,6.052760499661792
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Random Forest Regressor Tuned,10,8.794641914726942,1.2053580852730583,1.2053580852730583
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Random Forest Regressor Tuned,10,8.616309635762597,1.3836903642374025,1.3836903642374025
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Random Forest Regressor Tuned,5,8.829392847409455,-3.829392847409455,3.829392847409455
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Random Forest Regressor Tuned,7,8.72528351933642,-1.7252835193364202,1.7252835193364202
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Random Forest Regressor Tuned,10,8.64308339270969,1.3569166072903105,1.3569166072903105
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Random Forest Regressor Tuned,11,8.695616520536896,2.3043834794631035,2.3043834794631035
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Random Forest Regressor Tuned,10,8.184185954290044,1.8158140457099563,1.8158140457099563
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Random Forest Regressor Tuned,5,8.495239549972748,-3.495239549972748,3.495239549972748
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Random Forest Regressor Tuned,6,8.45876357109777,-2.4587635710977693,2.4587635710977693
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Random Forest Regressor Tuned,8,8.525968678659938,-0.5259686786599378,0.5259686786599378
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Random Forest Regressor Tuned,14,8.54895166424785,5.45104833575215,5.45104833575215
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Random Forest Regressor Tuned,4,8.54105932323369,-4.541059323233689,4.541059323233689
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Random Forest Regressor Tuned,7,8.441323245303039,-1.441323245303039,1.441323245303039
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Random Forest Regressor Tuned,6,8.64878857639505,-2.6487885763950505,2.6487885763950505
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Random Forest Regressor Tuned,8,8.702383586666816,-0.7023835866668158,0.7023835866668158
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Random Forest Regressor Tuned,7,8.66463484874664,-1.6646348487466405,1.6646348487466405
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Random Forest Regressor Tuned,6,8.78927242650209,-2.789272426502089,2.789272426502089
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Random Forest Regressor Tuned,5,8.580858396721402,-3.5808583967214016,3.5808583967214016
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Random Forest Regressor Tuned,10,8.92018258096315,1.07981741903685,1.07981741903685
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Random Forest Regressor Tuned,6,8.910014424708015,-2.910014424708015,2.910014424708015
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Random Forest Regressor Tuned,10,8.850272943187656,1.1497270568123437,1.1497270568123437
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Random Forest Regressor Tuned,7,8.837302195384169,-1.8373021953841686,1.8373021953841686
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Random Forest Regressor Tuned,15,8.896800587863634,6.103199412136366,6.103199412136366
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Random Forest Regressor Tuned,8,8.559710030303618,-0.5597100303036182,0.5597100303036182
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Random Forest Regressor Tuned,6,8.446043349449129,-2.4460433494491287,2.4460433494491287
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Random Forest Regressor Tuned,8,8.52447987608801,-0.5244798760880105,0.5244798760880105
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Random Forest Regressor Tuned,9,8.658763783635242,0.34123621636475754,0.34123621636475754
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Random Forest Regressor Tuned,4,8.770228658626259,-4.770228658626259,4.770228658626259
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Random Forest Regressor Tuned,9,8.641140231674088,0.35885976832591204,0.35885976832591204
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Random Forest Regressor Tuned,6,8.39473839335975,-2.3947383933597504,2.3947383933597504
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Random Forest Regressor Tuned,8,9.12279774728841,-1.1227977472884092,1.1227977472884092
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Random Forest Regressor Tuned,4,8.846760380392837,-4.846760380392837,4.846760380392837
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Random Forest Regressor Tuned,5,8.78501409593256,-3.78501409593256,3.78501409593256
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Random Forest Regressor Tuned,7,8.639373261388663,-1.6393732613886627,1.6393732613886627
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Random Forest Regressor Tuned,11,8.74779196382697,2.2522080361730303,2.2522080361730303
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Random Forest Regressor Tuned,11,8.77317355038636,2.2268264496136396,2.2268264496136396
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Random Forest Regressor Tuned,15,8.851634757342904,6.148365242657096,6.148365242657096
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Random Forest Regressor Tuned,8,8.601717257455032,-0.6017172574550322,0.6017172574550322
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Random Forest Regressor Tuned,9,8.49854171641535,0.5014582835846504,0.5014582835846504
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Random Forest Regressor Tuned,7,8.626975375947035,-1.6269753759470351,1.6269753759470351
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Random Forest Regressor Tuned,7,8.539799333307077,-1.5397993333070765,1.5397993333070765
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Random Forest Regressor Tuned,5,8.579184443763651,-3.5791844437636513,3.5791844437636513
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Random Forest Regressor Tuned,9,8.520323656272746,0.4796763437272542,0.4796763437272542
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Random Forest Regressor Tuned,9,8.328997059218949,0.6710029407810509,0.6710029407810509
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Random Forest Regressor Tuned,10,8.811052706914143,1.1889472930858567,1.1889472930858567
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Random Forest Regressor Tuned,4,8.7165490482216,-4.7165490482216,4.7165490482216
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Random Forest Regressor Tuned,8,8.57812110413221,-0.5781211041322099,0.5781211041322099
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Random Forest Regressor Tuned,10,8.570233959412738,1.4297660405872623,1.4297660405872623
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Random Forest Regressor Tuned,4,8.704342968653624,-4.704342968653624,4.704342968653624
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Random Forest Regressor Tuned,8,8.601894670933673,-0.6018946709336728,0.6018946709336728
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Random Forest Regressor Tuned,4,8.772039548668058,-4.772039548668058,4.772039548668058
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Random Forest Regressor Tuned,11,8.968736725293065,2.0312632747069355,2.0312632747069355
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Random Forest Regressor Tuned,10,8.799703973868668,1.2002960261313316,1.2002960261313316
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Random Forest Regressor Tuned,9,8.798523171622417,0.20147682837758296,0.20147682837758296
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Random Forest Regressor Tuned,11,8.739721897870172,2.2602781021298277,2.2602781021298277
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Random Forest Regressor Tuned,9,8.818086519904133,0.18191348009586683,0.18191348009586683
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Random Forest Regressor Tuned,15,8.626611429421978,6.373388570578022,6.373388570578022
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Random Forest Regressor Tuned,7,8.546577813295388,-1.5465778132953876,1.5465778132953876
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Random Forest Regressor Tuned,7,8.47700901294107,-1.4770090129410693,1.4770090129410693
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Random Forest Regressor Tuned,5,8.628749577962747,-3.628749577962747,3.628749577962747
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Random Forest Regressor Tuned,6,8.683291553204226,-2.683291553204226,2.683291553204226
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Random Forest Regressor Tuned,8,8.578265554878342,-0.5782655548783424,0.5782655548783424
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Random Forest Regressor Tuned,8,8.544699404894262,-0.5446994048942617,0.5446994048942617
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Random Forest Regressor Tuned,7,8.475193188936947,-1.475193188936947,1.475193188936947
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Random Forest Regressor Tuned,6,8.688790382427635,-2.6887903824276354,2.6887903824276354
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Random Forest Regressor Tuned,5,8.94910207210749,-3.9491020721074896,3.9491020721074896
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Random Forest Regressor Tuned,10,8.844525338205049,1.1554746617949512,1.1554746617949512
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Random Forest Regressor Tuned,7,8.814484836039227,-1.8144848360392274,1.8144848360392274
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Random Forest Regressor Tuned,4,8.889447026553803,-4.889447026553803,4.889447026553803
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Random Forest Regressor Tuned,13,8.851115594974713,4.148884405025287,4.148884405025287
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Random Forest Regressor Tuned,6,8.659966522459431,-2.659966522459431,2.659966522459431
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Random Forest Regressor Tuned,12,8.800432067025534,3.1995679329744657,3.1995679329744657
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Random Forest Regressor Tuned,10,8.914764095785563,1.0852359042144375,1.0852359042144375
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Random Forest Regressor Tuned,10,8.99376851347265,1.0062314865273496,1.0062314865273496
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Random Forest Regressor Tuned,4,8.772232337458155,-4.772232337458155,4.772232337458155
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Random Forest Regressor Tuned,9,8.6615272115212,0.3384727884787999,0.3384727884787999
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Random Forest Regressor Tuned,4,8.526677294324163,-4.526677294324163,4.526677294324163
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Random Forest Regressor Tuned,14,8.565647102820527,5.434352897179473,5.434352897179473
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Random Forest Regressor Tuned,6,8.538081630749282,-2.538081630749282,2.538081630749282
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Random Forest Regressor Tuned,5,8.529598093021582,-3.5295980930215816,3.5295980930215816
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Random Forest Regressor Tuned,13,8.582749449553281,4.4172505504467185,4.4172505504467185
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Random Forest Regressor Tuned,9,8.448971637108817,0.5510283628911825,0.5510283628911825
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Random Forest Regressor Tuned,11,8.421263187973514,2.578736812026486,2.578736812026486
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Random Forest Regressor Tuned,5,8.479032625149333,-3.4790326251493333,3.4790326251493333
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Random Forest Regressor Tuned,8,8.24239005410146,-0.24239005410145964,0.24239005410145964
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Random Forest Regressor Tuned,7,8.550058233604426,-1.5500582336044264,1.5500582336044264
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Random Forest Regressor Tuned,13,8.70641310872194,4.293586891278061,4.293586891278061
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Random Forest Regressor Tuned,8,8.456592159712224,-0.45659215971222444,0.45659215971222444
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Random Forest Regressor Tuned,9,8.622260226670985,0.3777397733290151,0.3777397733290151
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Random Forest Regressor Tuned,5,8.61691219964713,-3.61691219964713,3.61691219964713
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Random Forest Regressor Tuned,12,8.571628146282068,3.428371853717932,3.428371853717932
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Random Forest Regressor Tuned,4,8.618495594354409,-4.618495594354409,4.618495594354409
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Extra Trees Regressor Tuned,6,8.4889011333912,-2.4889011333912006,2.4889011333912006
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Extra Trees Regressor Tuned,11,8.320831242713584,2.6791687572864156,2.6791687572864156
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Extra Trees Regressor Tuned,7,8.356002073722838,-1.3560020737228378,1.3560020737228378
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Extra Trees Regressor Tuned,9,8.244942879666745,0.7550571203332552,0.7550571203332552
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Extra Trees Regressor Tuned,10,8.41860772857071,1.5813922714292907,1.5813922714292907
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Extra Trees Regressor Tuned,6,8.442245266307108,-2.4422452663071077,2.4422452663071077
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Extra Trees Regressor Tuned,16,8.574816940137852,7.425183059862148,7.425183059862148
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Extra Trees Regressor Tuned,4,8.506606771188496,-4.506606771188496,4.506606771188496
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Extra Trees Regressor Tuned,11,8.26915688779062,2.7308431122093797,2.7308431122093797
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Extra Trees Regressor Tuned,8,8.292978039848382,-0.2929780398483821,0.2929780398483821
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Extra Trees Regressor Tuned,9,8.26412389080397,0.7358761091960293,0.7358761091960293
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Extra Trees Regressor Tuned,9,8.598996281799838,0.4010037182001618,0.4010037182001618
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Extra Trees Regressor Tuned,8,8.560719713524955,-0.5607197135249553,0.5607197135249553
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Extra Trees Regressor Tuned,6,8.384467235716823,-2.384467235716823,2.384467235716823
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Extra Trees Regressor Tuned,6,8.423142836882574,-2.4231428368825743,2.4231428368825743
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Extra Trees Regressor Tuned,5,8.511571040928574,-3.5115710409285743,3.5115710409285743
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Extra Trees Regressor Tuned,6,8.2514739328075,-2.2514739328074995,2.2514739328074995
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Extra Trees Regressor Tuned,3,8.44701363318115,-5.44701363318115,5.44701363318115
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Extra Trees Regressor Tuned,4,8.595472981130884,-4.595472981130884,4.595472981130884
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Extra Trees Regressor Tuned,9,8.66950525854802,0.33049474145198054,0.33049474145198054
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Extra Trees Regressor Tuned,3,8.79723351429711,-5.79723351429711,5.79723351429711
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Extra Trees Regressor Tuned,6,8.571544611977401,-2.5715446119774015,2.5715446119774015
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Extra Trees Regressor Tuned,15,8.641396031963149,6.358603968036851,6.358603968036851
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Extra Trees Regressor Tuned,10,8.467063450058042,1.532936549941958,1.532936549941958
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Extra Trees Regressor Tuned,10,8.359728266652178,1.6402717333478218,1.6402717333478218
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Extra Trees Regressor Tuned,5,8.5879735139067,-3.5879735139067,3.5879735139067
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Extra Trees Regressor Tuned,7,8.51549876427149,-1.5154987642714897,1.5154987642714897
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Extra Trees Regressor Tuned,10,8.446885960935612,1.553114039064388,1.553114039064388
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Extra Trees Regressor Tuned,11,8.491969287049795,2.5080307129502053,2.5080307129502053
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Extra Trees Regressor Tuned,10,8.27704008798688,1.7229599120131205,1.7229599120131205
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Extra Trees Regressor Tuned,5,8.37723336694006,-3.377233366940059,3.377233366940059
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Extra Trees Regressor Tuned,6,8.432316558019009,-2.432316558019009,2.432316558019009
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Extra Trees Regressor Tuned,8,8.560200633268373,-0.5602006332683729,0.5602006332683729
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Extra Trees Regressor Tuned,14,8.56536965478477,5.434630345215229,5.434630345215229
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Extra Trees Regressor Tuned,4,8.45253701381797,-4.45253701381797,4.45253701381797
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Extra Trees Regressor Tuned,7,8.432872399025571,-1.4328723990255714,1.4328723990255714
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Extra Trees Regressor Tuned,6,8.540824309623119,-2.540824309623119,2.540824309623119
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Extra Trees Regressor Tuned,8,8.501469523345962,-0.5014695233459623,0.5014695233459623
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Extra Trees Regressor Tuned,7,8.498663087216558,-1.498663087216558,1.498663087216558
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Extra Trees Regressor Tuned,6,8.54610756713294,-2.5461075671329407,2.5461075671329407
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Extra Trees Regressor Tuned,5,8.487017206208186,-3.4870172062081863,3.4870172062081863
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Extra Trees Regressor Tuned,10,8.669666028390967,1.3303339716090328,1.3303339716090328
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Extra Trees Regressor Tuned,6,8.653905227047714,-2.653905227047714,2.653905227047714
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Extra Trees Regressor Tuned,10,8.593975587772654,1.406024412227346,1.406024412227346
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Extra Trees Regressor Tuned,7,8.518949121687625,-1.5189491216876245,1.5189491216876245
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Extra Trees Regressor Tuned,15,8.556085255169963,6.443914744830037,6.443914744830037
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Extra Trees Regressor Tuned,8,8.452708692301467,-0.45270869230146715,0.45270869230146715
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Extra Trees Regressor Tuned,6,8.39499381406382,-2.3949938140638203,2.3949938140638203
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Extra Trees Regressor Tuned,8,8.433837744708752,-0.433837744708752,0.433837744708752
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Extra Trees Regressor Tuned,9,8.428224399800701,0.5717756001992989,0.5717756001992989
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Extra Trees Regressor Tuned,4,8.423349319804053,-4.423349319804053,4.423349319804053
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Extra Trees Regressor Tuned,9,8.316605542502586,0.683394457497414,0.683394457497414
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Extra Trees Regressor Tuned,6,8.333755102635166,-2.333755102635166,2.333755102635166
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Extra Trees Regressor Tuned,8,8.733786416352833,-0.7337864163528334,0.7337864163528334
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Extra Trees Regressor Tuned,4,8.681877618909835,-4.6818776189098354,4.6818776189098354
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Extra Trees Regressor Tuned,5,8.585843398413228,-3.5858433984132283,3.5858433984132283
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Extra Trees Regressor Tuned,7,8.62499759511855,-1.6249975951185505,1.6249975951185505
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Extra Trees Regressor Tuned,11,8.595094841532807,2.4049051584671925,2.4049051584671925
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Extra Trees Regressor Tuned,11,8.489291294859628,2.510708705140372,2.510708705140372
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Extra Trees Regressor Tuned,15,8.565561170113655,6.434438829886345,6.434438829886345
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Extra Trees Regressor Tuned,8,8.473488335071002,-0.47348833507100174,0.47348833507100174
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Extra Trees Regressor Tuned,9,8.352723707008437,0.6472762929915632,0.6472762929915632
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Extra Trees Regressor Tuned,7,8.474296262760795,-1.4742962627607952,1.4742962627607952
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Extra Trees Regressor Tuned,7,8.396820228938552,-1.3968202289385516,1.3968202289385516
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Extra Trees Regressor Tuned,5,8.335561445478941,-3.335561445478941,3.335561445478941
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Extra Trees Regressor Tuned,9,8.31444961034048,0.6855503896595199,0.6855503896595199
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Extra Trees Regressor Tuned,9,8.271610039629447,0.7283899603705528,0.7283899603705528
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Extra Trees Regressor Tuned,10,8.67306812462562,1.3269318753743793,1.3269318753743793
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Extra Trees Regressor Tuned,4,8.593839113790558,-4.593839113790558,4.593839113790558
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Extra Trees Regressor Tuned,8,8.529596998510192,-0.5295969985101916,0.5295969985101916
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Extra Trees Regressor Tuned,10,8.536772107150476,1.463227892849524,1.463227892849524
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Extra Trees Regressor Tuned,4,8.465538765188235,-4.465538765188235,4.465538765188235
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Extra Trees Regressor Tuned,8,8.438048456383731,-0.438048456383731,0.438048456383731
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Extra Trees Regressor Tuned,4,8.564248723798677,-4.564248723798677,4.564248723798677
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Extra Trees Regressor Tuned,11,8.690829578172503,2.3091704218274973,2.3091704218274973
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Extra Trees Regressor Tuned,10,8.570778805921938,1.4292211940780621,1.4292211940780621
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Extra Trees Regressor Tuned,9,8.538706724878386,0.4612932751216139,0.4612932751216139
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Extra Trees Regressor Tuned,11,8.559349689146291,2.4406503108537088,2.4406503108537088
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Extra Trees Regressor Tuned,9,8.494554395307,0.5054456046929996,0.5054456046929996
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Extra Trees Regressor Tuned,15,8.432386715896152,6.567613284103848,6.567613284103848
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Extra Trees Regressor Tuned,7,8.39038709161662,-1.3903870916166206,1.3903870916166206
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Extra Trees Regressor Tuned,7,8.367151560700087,-1.367151560700087,1.367151560700087
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Extra Trees Regressor Tuned,5,8.459331996246124,-3.4593319962461244,3.4593319962461244
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Extra Trees Regressor Tuned,6,8.458218476317368,-2.4582184763173682,2.4582184763173682
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Extra Trees Regressor Tuned,8,8.468984448754544,-0.4689844487545436,0.4689844487545436
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Extra Trees Regressor Tuned,8,8.361137505518455,-0.3611375055184549,0.3611375055184549
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Extra Trees Regressor Tuned,7,8.34626324553672,-1.3462632455367203,1.3462632455367203
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Extra Trees Regressor Tuned,6,8.534112459370702,-2.534112459370702,2.534112459370702
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Extra Trees Regressor Tuned,5,8.705939252781752,-3.705939252781752,3.705939252781752
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Extra Trees Regressor Tuned,10,8.623838089974255,1.3761619100257452,1.3761619100257452
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Extra Trees Regressor Tuned,7,8.570063452124021,-1.570063452124021,1.570063452124021
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Extra Trees Regressor Tuned,4,8.543691811088125,-4.5436918110881255,4.5436918110881255
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Extra Trees Regressor Tuned,13,8.52960599798132,4.470394002018679,4.470394002018679
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Extra Trees Regressor Tuned,6,8.492171288761948,-2.4921712887619485,2.4921712887619485
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Extra Trees Regressor Tuned,12,8.465997885242743,3.534002114757257,3.534002114757257
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Extra Trees Regressor Tuned,10,8.643868507089879,1.3561314929101211,1.3561314929101211
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Extra Trees Regressor Tuned,10,8.58177009685465,1.4182299031453507,1.4182299031453507
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Extra Trees Regressor Tuned,4,8.57150003420257,-4.57150003420257,4.57150003420257
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Extra Trees Regressor Tuned,9,8.543721123334869,0.4562788766651309,0.4562788766651309
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Extra Trees Regressor Tuned,4,8.543227133992378,-4.543227133992378,4.543227133992378
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Extra Trees Regressor Tuned,14,8.439897428198371,5.560102571801629,5.560102571801629
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Extra Trees Regressor Tuned,6,8.471652161556975,-2.4716521615569746,2.4716521615569746
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Extra Trees Regressor Tuned,5,8.444471807886153,-3.4444718078861527,3.4444718078861527
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Extra Trees Regressor Tuned,13,8.537207649270933,4.462792350729067,4.462792350729067
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Extra Trees Regressor Tuned,9,8.475986249395095,0.5240137506049045,0.5240137506049045
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Extra Trees Regressor Tuned,11,8.430837833367685,2.5691621666323154,2.5691621666323154
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Extra Trees Regressor Tuned,5,8.478071289388605,-3.4780712893886054,3.4780712893886054
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Extra Trees Regressor Tuned,8,8.306590082910148,-0.306590082910148,0.306590082910148
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Extra Trees Regressor Tuned,7,8.456891109479916,-1.4568911094799155,1.4568911094799155
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Extra Trees Regressor Tuned,13,8.56962709505004,4.4303729049499605,4.4303729049499605
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Extra Trees Regressor Tuned,8,8.404788684832639,-0.4047886848326385,0.4047886848326385
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Extra Trees Regressor Tuned,9,8.503932323310227,0.4960676766897727,0.4960676766897727
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Extra Trees Regressor Tuned,5,8.535892991560907,-3.5358929915609068,3.5358929915609068
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Extra Trees Regressor Tuned,12,8.43774260199242,3.5622573980075796,3.5622573980075796
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Extra Trees Regressor Tuned,4,8.464288636531382,-4.464288636531382,4.464288636531382
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,Gradient Boosting Regressor Tuned,6,9.437828230525279,-3.4378282305252785,3.4378282305252785
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,Gradient Boosting Regressor Tuned,11,9.591395960703117,1.4086040392968826,1.4086040392968826
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,Gradient Boosting Regressor Tuned,7,9.449546591116356,-2.4495465911163556,2.4495465911163556
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,Gradient Boosting Regressor Tuned,9,9.455378661380546,-0.4553786613805464,0.4553786613805464
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,Gradient Boosting Regressor Tuned,10,9.508340047282726,0.49165995271727425,0.49165995271727425
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,Gradient Boosting Regressor Tuned,6,9.467813636891744,-3.4678136368917443,3.4678136368917443
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,Gradient Boosting Regressor Tuned,16,9.507026422925671,6.492973577074329,6.492973577074329
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,Gradient Boosting Regressor Tuned,4,9.538013100552993,-5.538013100552993,5.538013100552993
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,Gradient Boosting Regressor Tuned,11,9.462522783283672,1.5374772167163275,1.5374772167163275
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,Gradient Boosting Regressor Tuned,8,9.392012496712026,-1.3920124967120255,1.3920124967120255
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,Gradient Boosting Regressor Tuned,9,9.51394192100052,-0.5139419210005194,0.5139419210005194
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,Gradient Boosting Regressor Tuned,9,9.707316774136102,-0.7073167741361015,0.7073167741361015
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,Gradient Boosting Regressor Tuned,8,9.52845255122824,-1.5284525512282396,1.5284525512282396
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,Gradient Boosting Regressor Tuned,6,9.493448848206134,-3.4934488482061337,3.4934488482061337
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,Gradient Boosting Regressor Tuned,6,9.33695479498888,-3.3369547949888805,3.3369547949888805
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,Gradient Boosting Regressor Tuned,5,9.516335220996277,-4.516335220996277,4.516335220996277
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,Gradient Boosting Regressor Tuned,6,9.672096880398595,-3.6720968803985947,3.6720968803985947
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,Gradient Boosting Regressor Tuned,3,9.678359060968935,-6.678359060968935,6.678359060968935
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,Gradient Boosting Regressor Tuned,4,9.741413243713362,-5.741413243713362,5.741413243713362
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,Gradient Boosting Regressor Tuned,9,9.766120045744026,-0.7661200457440263,0.7661200457440263
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,Gradient Boosting Regressor Tuned,3,10.121024700118348,-7.1210247001183475,7.1210247001183475
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,Gradient Boosting Regressor Tuned,6,11.2328475696553,-5.2328475696553,5.2328475696553
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,Gradient Boosting Regressor Tuned,15,11.257931453367732,3.742068546632268,3.742068546632268
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,Gradient Boosting Regressor Tuned,10,9.783438065872438,0.21656193412756153,0.21656193412756153
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,Gradient Boosting Regressor Tuned,10,9.738655070509036,0.26134492949096355,0.26134492949096355
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,Gradient Boosting Regressor Tuned,5,9.78304830990161,-4.783048309901609,4.783048309901609
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,Gradient Boosting Regressor Tuned,7,9.731734588623231,-2.7317345886232314,2.7317345886232314
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,Gradient Boosting Regressor Tuned,10,9.675186064231498,0.3248139357685016,0.3248139357685016
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,Gradient Boosting Regressor Tuned,11,9.732754263345965,1.2672457366540346,1.2672457366540346
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,Gradient Boosting Regressor Tuned,10,9.685654445690014,0.3143455543099858,0.3143455543099858
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,Gradient Boosting Regressor Tuned,5,9.728895037144518,-4.728895037144518,4.728895037144518
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,Gradient Boosting Regressor Tuned,6,9.729785417978619,-3.7297854179786185,3.7297854179786185
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,Gradient Boosting Regressor Tuned,8,9.75304485191217,-1.7530448519121702,1.7530448519121702
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,Gradient Boosting Regressor Tuned,14,9.7636051760792,4.236394823920801,4.236394823920801
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,Gradient Boosting Regressor Tuned,4,9.735396326802672,-5.735396326802672,5.735396326802672
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,Gradient Boosting Regressor Tuned,7,9.662034904430193,-2.662034904430193,2.662034904430193
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,Gradient Boosting Regressor Tuned,6,9.852419040187897,-3.852419040187897,3.852419040187897
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,Gradient Boosting Regressor Tuned,8,9.803663381577397,-1.8036633815773975,1.8036633815773975
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,Gradient Boosting Regressor Tuned,7,9.882323422700424,-2.8823234227004235,2.8823234227004235
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,Gradient Boosting Regressor Tuned,6,9.946288847455643,-3.9462888474556426,3.9462888474556426
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,Gradient Boosting Regressor Tuned,5,9.950367510903323,-4.950367510903323,4.950367510903323
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,Gradient Boosting Regressor Tuned,10,9.965251219972501,0.03474878002749904,0.03474878002749904
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,Gradient Boosting Regressor Tuned,6,9.951776665105545,-3.9517766651055446,3.9517766651055446
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,Gradient Boosting Regressor Tuned,10,9.947744804848243,0.052255195151756695,0.052255195151756695
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,Gradient Boosting Regressor Tuned,7,9.934810210117707,-2.934810210117707,2.934810210117707
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,Gradient Boosting Regressor Tuned,15,9.980587391424855,5.019412608575145,5.019412608575145
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,Gradient Boosting Regressor Tuned,8,9.709789605053363,-1.7097896050533627,1.7097896050533627
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,Gradient Boosting Regressor Tuned,6,9.791974687146187,-3.791974687146187,3.791974687146187
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,Gradient Boosting Regressor Tuned,8,9.724386211901594,-1.724386211901594,1.724386211901594
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,Gradient Boosting Regressor Tuned,9,9.899964899317958,-0.8999648993179576,0.8999648993179576
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,Gradient Boosting Regressor Tuned,4,9.943192705128663,-5.943192705128663,5.943192705128663
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,Gradient Boosting Regressor Tuned,9,9.915104842947457,-0.9151048429474571,0.9151048429474571
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,Gradient Boosting Regressor Tuned,6,9.8425278044263,-3.8425278044263003,3.8425278044263003
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,Gradient Boosting Regressor Tuned,8,9.92657619242172,-1.9265761924217202,1.9265761924217202
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,Gradient Boosting Regressor Tuned,4,9.948599883335024,-5.948599883335024,5.948599883335024
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,Gradient Boosting Regressor Tuned,5,9.80195366057826,-4.80195366057826,4.80195366057826
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,Gradient Boosting Regressor Tuned,7,9.831257031808958,-2.831257031808958,2.831257031808958
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,Gradient Boosting Regressor Tuned,11,9.824588269333502,1.1754117306664984,1.1754117306664984
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,Gradient Boosting Regressor Tuned,11,9.798929431706783,1.2010705682932166,1.2010705682932166
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,Gradient Boosting Regressor Tuned,15,9.883310184498486,5.116689815501514,5.116689815501514
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,Gradient Boosting Regressor Tuned,8,9.80026019202939,-1.8002601920293895,1.8002601920293895
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,Gradient Boosting Regressor Tuned,9,9.742155165858376,-0.7421551658583763,0.7421551658583763
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,Gradient Boosting Regressor Tuned,7,9.783380116210372,-2.783380116210372,2.783380116210372
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,Gradient Boosting Regressor Tuned,7,9.769808143521175,-2.7698081435211748,2.7698081435211748
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,Gradient Boosting Regressor Tuned,5,9.764341056410993,-4.764341056410993,4.764341056410993
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,Gradient Boosting Regressor Tuned,9,9.768931024167127,-0.7689310241671272,0.7689310241671272
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,Gradient Boosting Regressor Tuned,9,9.704334189609217,-0.7043341896092166,0.7043341896092166
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,Gradient Boosting Regressor Tuned,10,9.853867252440923,0.14613274755907746,0.14613274755907746
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,Gradient Boosting Regressor Tuned,4,9.83881587265125,-5.838815872651249,5.838815872651249
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,Gradient Boosting Regressor Tuned,8,9.77882618500018,-1.7788261850001792,1.7788261850001792
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,Gradient Boosting Regressor Tuned,10,9.87706656454024,0.12293343545976043,0.12293343545976043
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,Gradient Boosting Regressor Tuned,4,9.98444972712479,-5.98444972712479,5.98444972712479
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,Gradient Boosting Regressor Tuned,8,9.807656949152848,-1.8076569491528485,1.8076569491528485
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,Gradient Boosting Regressor Tuned,4,9.891567529886013,-5.891567529886013,5.891567529886013
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,Gradient Boosting Regressor Tuned,11,9.956075637859211,1.043924362140789,1.043924362140789
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,Gradient Boosting Regressor Tuned,10,9.978140503220274,0.021859496779725873,0.021859496779725873
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,Gradient Boosting Regressor Tuned,9,9.955467340435991,-0.955467340435991,0.955467340435991
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,Gradient Boosting Regressor Tuned,11,9.929594526963006,1.0704054730369936,1.0704054730369936
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,Gradient Boosting Regressor Tuned,9,9.951194878577523,-0.9511948785775228,0.9511948785775228
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,Gradient Boosting Regressor Tuned,15,9.928018192902906,5.071981807097094,5.071981807097094
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,Gradient Boosting Regressor Tuned,7,9.751137476907756,-2.751137476907756,2.751137476907756
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,Gradient Boosting Regressor Tuned,7,9.788308312388702,-2.7883083123887022,2.7883083123887022
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,Gradient Boosting Regressor Tuned,5,9.786744943824703,-4.7867449438247025,4.7867449438247025
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,Gradient Boosting Regressor Tuned,6,9.787365895298468,-3.7873658952984677,3.7873658952984677
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,Gradient Boosting Regressor Tuned,8,9.79235458630357,-1.7923545863035706,1.7923545863035706
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,Gradient Boosting Regressor Tuned,8,9.770174886292912,-1.7701748862929119,1.7701748862929119
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,Gradient Boosting Regressor Tuned,7,9.825644025098367,-2.8256440250983665,2.8256440250983665
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,Gradient Boosting Regressor Tuned,6,9.83558707481538,-3.835587074815381,3.835587074815381
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,Gradient Boosting Regressor Tuned,5,10.037268521085343,-5.037268521085343,5.037268521085343
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,Gradient Boosting Regressor Tuned,10,10.027657787134729,-0.02765778713472855,0.02765778713472855
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,Gradient Boosting Regressor Tuned,7,9.97914912216529,-2.979149122165291,2.979149122165291
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,Gradient Boosting Regressor Tuned,4,10.034958149793797,-6.0349581497937965,6.0349581497937965
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,Gradient Boosting Regressor Tuned,13,9.936901339696446,3.063098660303554,3.063098660303554
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,Gradient Boosting Regressor Tuned,6,9.868132044430025,-3.868132044430025,3.868132044430025
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,Gradient Boosting Regressor Tuned,12,9.8923916525233,2.1076083474767007,2.1076083474767007
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,Gradient Boosting Regressor Tuned,10,9.992211315541635,0.007788684458365225,0.007788684458365225
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,Gradient Boosting Regressor Tuned,10,9.981671763896255,0.0183282361037449,0.0183282361037449
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,Gradient Boosting Regressor Tuned,4,9.971152242544774,-5.971152242544774,5.971152242544774
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,Gradient Boosting Regressor Tuned,9,9.826222285890228,-0.8262222858902284,0.8262222858902284
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,Gradient Boosting Regressor Tuned,4,9.809859057962889,-5.809859057962889,5.809859057962889
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,Gradient Boosting Regressor Tuned,14,9.76169932945476,4.2383006705452395,4.2383006705452395
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,Gradient Boosting Regressor Tuned,6,9.718416592789575,-3.718416592789575,3.718416592789575
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,Gradient Boosting Regressor Tuned,5,9.738753042524644,-4.738753042524644,4.738753042524644
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,Gradient Boosting Regressor Tuned,13,9.81983471586022,3.1801652841397807,3.1801652841397807
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,Gradient Boosting Regressor Tuned,9,9.687489240023348,-0.6874892400233481,0.6874892400233481
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,Gradient Boosting Regressor Tuned,11,9.583249085045285,1.416750914954715,1.416750914954715
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,Gradient Boosting Regressor Tuned,5,9.721506565033726,-4.721506565033726,4.721506565033726
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,Gradient Boosting Regressor Tuned,8,9.666081723963357,-1.666081723963357,1.666081723963357
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,Gradient Boosting Regressor Tuned,7,9.806868742670611,-2.806868742670611,2.806868742670611
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,Gradient Boosting Regressor Tuned,13,9.799209987313102,3.2007900126868982,3.2007900126868982
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,Gradient Boosting Regressor Tuned,8,9.752992058790717,-1.752992058790717,1.752992058790717
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,Gradient Boosting Regressor Tuned,9,9.757790892883733,-0.7577908928837331,0.7577908928837331
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,Gradient Boosting Regressor Tuned,5,9.807272983196663,-4.807272983196663,4.807272983196663
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,Gradient Boosting Regressor Tuned,12,9.771584818394425,2.228415181605575,2.228415181605575
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,Gradient Boosting Regressor Tuned,4,9.813624858872828,-5.813624858872828,5.813624858872828
+daily_orders,Số lượng đơn hàng ngày,2024-07-13,HistGradientBoosting Regressor Tuned,6,8.218850124003517,-2.2188501240035166,2.2188501240035166
+daily_orders,Số lượng đơn hàng ngày,2024-07-14,HistGradientBoosting Regressor Tuned,11,7.990800291020868,3.009199708979132,3.009199708979132
+daily_orders,Số lượng đơn hàng ngày,2024-07-15,HistGradientBoosting Regressor Tuned,7,8.134312476771003,-1.1343124767710027,1.1343124767710027
+daily_orders,Số lượng đơn hàng ngày,2024-07-16,HistGradientBoosting Regressor Tuned,9,7.780363114005306,1.219636885994694,1.219636885994694
+daily_orders,Số lượng đơn hàng ngày,2024-07-17,HistGradientBoosting Regressor Tuned,10,8.389953986596327,1.6100460134036734,1.6100460134036734
+daily_orders,Số lượng đơn hàng ngày,2024-07-18,HistGradientBoosting Regressor Tuned,6,7.514539920377648,-1.514539920377648,1.514539920377648
+daily_orders,Số lượng đơn hàng ngày,2024-07-19,HistGradientBoosting Regressor Tuned,16,8.006855553110489,7.993144446889511,7.993144446889511
+daily_orders,Số lượng đơn hàng ngày,2024-07-20,HistGradientBoosting Regressor Tuned,4,7.776633546834951,-3.776633546834951,3.776633546834951
+daily_orders,Số lượng đơn hàng ngày,2024-07-21,HistGradientBoosting Regressor Tuned,11,7.853048176046992,3.1469518239530077,3.1469518239530077
+daily_orders,Số lượng đơn hàng ngày,2024-07-22,HistGradientBoosting Regressor Tuned,8,7.675740295106604,0.32425970489339573,0.32425970489339573
+daily_orders,Số lượng đơn hàng ngày,2024-07-23,HistGradientBoosting Regressor Tuned,9,7.846215500300551,1.1537844996994489,1.1537844996994489
+daily_orders,Số lượng đơn hàng ngày,2024-07-24,HistGradientBoosting Regressor Tuned,9,8.306827514300423,0.6931724856995771,0.6931724856995771
+daily_orders,Số lượng đơn hàng ngày,2024-07-25,HistGradientBoosting Regressor Tuned,8,8.37567809475716,-0.3756780947571592,0.3756780947571592
+daily_orders,Số lượng đơn hàng ngày,2024-07-26,HistGradientBoosting Regressor Tuned,6,7.360625433167062,-1.360625433167062,1.360625433167062
+daily_orders,Số lượng đơn hàng ngày,2024-07-27,HistGradientBoosting Regressor Tuned,6,7.463580887636679,-1.4635808876366792,1.4635808876366792
+daily_orders,Số lượng đơn hàng ngày,2024-07-28,HistGradientBoosting Regressor Tuned,5,7.473879323903754,-2.4738793239037538,2.4738793239037538
+daily_orders,Số lượng đơn hàng ngày,2024-07-29,HistGradientBoosting Regressor Tuned,6,7.8964584086445955,-1.8964584086445955,1.8964584086445955
+daily_orders,Số lượng đơn hàng ngày,2024-07-30,HistGradientBoosting Regressor Tuned,3,7.9756826026160335,-4.9756826026160335,4.9756826026160335
+daily_orders,Số lượng đơn hàng ngày,2024-07-31,HistGradientBoosting Regressor Tuned,4,8.325405142584597,-4.3254051425845965,4.3254051425845965
+daily_orders,Số lượng đơn hàng ngày,2024-08-01,HistGradientBoosting Regressor Tuned,9,8.235566756394796,0.7644332436052039,0.7644332436052039
+daily_orders,Số lượng đơn hàng ngày,2024-08-02,HistGradientBoosting Regressor Tuned,3,9.04463432790333,-6.04463432790333,6.04463432790333
+daily_orders,Số lượng đơn hàng ngày,2024-08-03,HistGradientBoosting Regressor Tuned,6,9.765642979049254,-3.765642979049254,3.765642979049254
+daily_orders,Số lượng đơn hàng ngày,2024-08-04,HistGradientBoosting Regressor Tuned,15,9.411857647172255,5.588142352827745,5.588142352827745
+daily_orders,Số lượng đơn hàng ngày,2024-08-05,HistGradientBoosting Regressor Tuned,10,9.276426936197392,0.7235730638026077,0.7235730638026077
+daily_orders,Số lượng đơn hàng ngày,2024-08-06,HistGradientBoosting Regressor Tuned,10,8.698850843354148,1.3011491566458524,1.3011491566458524
+daily_orders,Số lượng đơn hàng ngày,2024-08-07,HistGradientBoosting Regressor Tuned,5,9.140632389163159,-4.140632389163159,4.140632389163159
+daily_orders,Số lượng đơn hàng ngày,2024-08-08,HistGradientBoosting Regressor Tuned,7,8.938292493082383,-1.9382924930823826,1.9382924930823826
+daily_orders,Số lượng đơn hàng ngày,2024-08-09,HistGradientBoosting Regressor Tuned,10,8.520623829879838,1.4793761701201618,1.4793761701201618
+daily_orders,Số lượng đơn hàng ngày,2024-08-10,HistGradientBoosting Regressor Tuned,11,8.827142166372406,2.172857833627594,2.172857833627594
+daily_orders,Số lượng đơn hàng ngày,2024-08-11,HistGradientBoosting Regressor Tuned,10,7.528881754197636,2.471118245802364,2.471118245802364
+daily_orders,Số lượng đơn hàng ngày,2024-08-12,HistGradientBoosting Regressor Tuned,5,8.026084202088203,-3.026084202088203,3.026084202088203
+daily_orders,Số lượng đơn hàng ngày,2024-08-13,HistGradientBoosting Regressor Tuned,6,8.380391622832422,-2.3803916228324216,2.3803916228324216
+daily_orders,Số lượng đơn hàng ngày,2024-08-14,HistGradientBoosting Regressor Tuned,8,8.609917574436015,-0.6099175744360146,0.6099175744360146
+daily_orders,Số lượng đơn hàng ngày,2024-08-15,HistGradientBoosting Regressor Tuned,14,8.1554867205709,5.8445132794290995,5.8445132794290995
+daily_orders,Số lượng đơn hàng ngày,2024-08-16,HistGradientBoosting Regressor Tuned,4,8.048206352400088,-4.048206352400088,4.048206352400088
+daily_orders,Số lượng đơn hàng ngày,2024-08-17,HistGradientBoosting Regressor Tuned,7,8.545653754295305,-1.545653754295305,1.545653754295305
+daily_orders,Số lượng đơn hàng ngày,2024-08-18,HistGradientBoosting Regressor Tuned,6,8.647181356283111,-2.6471813562831112,2.6471813562831112
+daily_orders,Số lượng đơn hàng ngày,2024-08-19,HistGradientBoosting Regressor Tuned,8,8.784009415973383,-0.784009415973383,0.784009415973383
+daily_orders,Số lượng đơn hàng ngày,2024-08-20,HistGradientBoosting Regressor Tuned,7,8.784540221026687,-1.7845402210266865,1.7845402210266865
+daily_orders,Số lượng đơn hàng ngày,2024-08-21,HistGradientBoosting Regressor Tuned,6,9.702122515652219,-3.702122515652219,3.702122515652219
+daily_orders,Số lượng đơn hàng ngày,2024-08-22,HistGradientBoosting Regressor Tuned,5,9.02510546302622,-4.02510546302622,4.02510546302622
+daily_orders,Số lượng đơn hàng ngày,2024-08-23,HistGradientBoosting Regressor Tuned,10,9.586746661607085,0.41325333839291467,0.41325333839291467
+daily_orders,Số lượng đơn hàng ngày,2024-08-24,HistGradientBoosting Regressor Tuned,6,9.644780271175021,-3.644780271175021,3.644780271175021
+daily_orders,Số lượng đơn hàng ngày,2024-08-25,HistGradientBoosting Regressor Tuned,10,8.82823555954706,1.1717644404529395,1.1717644404529395
+daily_orders,Số lượng đơn hàng ngày,2024-08-26,HistGradientBoosting Regressor Tuned,7,9.73298395934624,-2.7329839593462406,2.7329839593462406
+daily_orders,Số lượng đơn hàng ngày,2024-08-27,HistGradientBoosting Regressor Tuned,15,8.871262130645103,6.128737869354897,6.128737869354897
+daily_orders,Số lượng đơn hàng ngày,2024-08-28,HistGradientBoosting Regressor Tuned,8,8.43645740393055,-0.4364574039305502,0.4364574039305502
+daily_orders,Số lượng đơn hàng ngày,2024-08-29,HistGradientBoosting Regressor Tuned,6,9.356806443647988,-3.3568064436479883,3.3568064436479883
+daily_orders,Số lượng đơn hàng ngày,2024-08-30,HistGradientBoosting Regressor Tuned,8,8.884401521865156,-0.884401521865156,0.884401521865156
+daily_orders,Số lượng đơn hàng ngày,2024-08-31,HistGradientBoosting Regressor Tuned,9,9.674747244094387,-0.6747472440943874,0.6747472440943874
+daily_orders,Số lượng đơn hàng ngày,2024-09-01,HistGradientBoosting Regressor Tuned,4,9.959051474586087,-5.9590514745860865,5.9590514745860865
+daily_orders,Số lượng đơn hàng ngày,2024-09-02,HistGradientBoosting Regressor Tuned,9,9.174545485026506,-0.17454548502650624,0.17454548502650624
+daily_orders,Số lượng đơn hàng ngày,2024-09-03,HistGradientBoosting Regressor Tuned,6,8.084129234718056,-2.0841292347180556,2.0841292347180556
+daily_orders,Số lượng đơn hàng ngày,2024-09-04,HistGradientBoosting Regressor Tuned,8,9.311623971206133,-1.3116239712061333,1.3116239712061333
+daily_orders,Số lượng đơn hàng ngày,2024-09-05,HistGradientBoosting Regressor Tuned,4,9.476000333344196,-5.476000333344196,5.476000333344196
+daily_orders,Số lượng đơn hàng ngày,2024-09-06,HistGradientBoosting Regressor Tuned,5,8.15989170611927,-3.1598917061192697,3.1598917061192697
+daily_orders,Số lượng đơn hàng ngày,2024-09-07,HistGradientBoosting Regressor Tuned,7,7.8931380036208125,-0.8931380036208125,0.8931380036208125
+daily_orders,Số lượng đơn hàng ngày,2024-09-08,HistGradientBoosting Regressor Tuned,11,8.32953794133005,2.6704620586699495,2.6704620586699495
+daily_orders,Số lượng đơn hàng ngày,2024-09-09,HistGradientBoosting Regressor Tuned,11,8.446182114676928,2.553817885323072,2.553817885323072
+daily_orders,Số lượng đơn hàng ngày,2024-09-10,HistGradientBoosting Regressor Tuned,15,8.545643778568255,6.454356221431745,6.454356221431745
+daily_orders,Số lượng đơn hàng ngày,2024-09-11,HistGradientBoosting Regressor Tuned,8,8.516062684532017,-0.5160626845320166,0.5160626845320166
+daily_orders,Số lượng đơn hàng ngày,2024-09-12,HistGradientBoosting Regressor Tuned,9,8.566511176933291,0.43348882306670866,0.43348882306670866
+daily_orders,Số lượng đơn hàng ngày,2024-09-13,HistGradientBoosting Regressor Tuned,7,8.689342729987045,-1.689342729987045,1.689342729987045
+daily_orders,Số lượng đơn hàng ngày,2024-09-14,HistGradientBoosting Regressor Tuned,7,8.614388126883469,-1.614388126883469,1.614388126883469
+daily_orders,Số lượng đơn hàng ngày,2024-09-15,HistGradientBoosting Regressor Tuned,5,8.446928113526175,-3.446928113526175,3.446928113526175
+daily_orders,Số lượng đơn hàng ngày,2024-09-16,HistGradientBoosting Regressor Tuned,9,8.52036785876844,0.4796321412315603,0.4796321412315603
+daily_orders,Số lượng đơn hàng ngày,2024-09-17,HistGradientBoosting Regressor Tuned,9,7.660121711102393,1.3398782888976069,1.3398782888976069
+daily_orders,Số lượng đơn hàng ngày,2024-09-18,HistGradientBoosting Regressor Tuned,10,8.601419160843118,1.3985808391568817,1.3985808391568817
+daily_orders,Số lượng đơn hàng ngày,2024-09-19,HistGradientBoosting Regressor Tuned,4,8.247463327393445,-4.2474633273934455,4.2474633273934455
+daily_orders,Số lượng đơn hàng ngày,2024-09-20,HistGradientBoosting Regressor Tuned,8,8.224266446951402,-0.2242664469514022,0.2242664469514022
+daily_orders,Số lượng đơn hàng ngày,2024-09-21,HistGradientBoosting Regressor Tuned,10,9.059814524883008,0.9401854751169925,0.9401854751169925
+daily_orders,Số lượng đơn hàng ngày,2024-09-22,HistGradientBoosting Regressor Tuned,4,9.118068868591674,-5.118068868591674,5.118068868591674
+daily_orders,Số lượng đơn hàng ngày,2024-09-23,HistGradientBoosting Regressor Tuned,8,8.366943721626681,-0.3669437216266811,0.3669437216266811
+daily_orders,Số lượng đơn hàng ngày,2024-09-24,HistGradientBoosting Regressor Tuned,4,8.543316332327999,-4.543316332327999,4.543316332327999
+daily_orders,Số lượng đơn hàng ngày,2024-09-25,HistGradientBoosting Regressor Tuned,11,9.717987390909325,1.2820126090906747,1.2820126090906747
+daily_orders,Số lượng đơn hàng ngày,2024-09-26,HistGradientBoosting Regressor Tuned,10,9.887941120994473,0.11205887900552725,0.11205887900552725
+daily_orders,Số lượng đơn hàng ngày,2024-09-27,HistGradientBoosting Regressor Tuned,9,9.267921904084538,-0.2679219040845382,0.2679219040845382
+daily_orders,Số lượng đơn hàng ngày,2024-09-28,HistGradientBoosting Regressor Tuned,11,9.114012170459334,1.8859878295406656,1.8859878295406656
+daily_orders,Số lượng đơn hàng ngày,2024-09-29,HistGradientBoosting Regressor Tuned,9,9.385601212829753,-0.38560121282975324,0.38560121282975324
+daily_orders,Số lượng đơn hàng ngày,2024-09-30,HistGradientBoosting Regressor Tuned,15,8.614069239934246,6.385930760065754,6.385930760065754
+daily_orders,Số lượng đơn hàng ngày,2024-10-01,HistGradientBoosting Regressor Tuned,7,8.553123920518262,-1.5531239205182619,1.5531239205182619
+daily_orders,Số lượng đơn hàng ngày,2024-10-02,HistGradientBoosting Regressor Tuned,7,8.690052726841358,-1.6900527268413583,1.6900527268413583
+daily_orders,Số lượng đơn hàng ngày,2024-10-03,HistGradientBoosting Regressor Tuned,5,8.371593382326939,-3.371593382326939,3.371593382326939
+daily_orders,Số lượng đơn hàng ngày,2024-10-04,HistGradientBoosting Regressor Tuned,6,8.614138590045538,-2.6141385900455383,2.6141385900455383
+daily_orders,Số lượng đơn hàng ngày,2024-10-05,HistGradientBoosting Regressor Tuned,8,8.863654581310021,-0.8636545813100209,0.8636545813100209
+daily_orders,Số lượng đơn hàng ngày,2024-10-06,HistGradientBoosting Regressor Tuned,8,8.698852576247413,-0.6988525762474129,0.6988525762474129
+daily_orders,Số lượng đơn hàng ngày,2024-10-07,HistGradientBoosting Regressor Tuned,7,8.598353842219117,-1.598353842219117,1.598353842219117
+daily_orders,Số lượng đơn hàng ngày,2024-10-08,HistGradientBoosting Regressor Tuned,6,8.49089653838532,-2.4908965383853197,2.4908965383853197
+daily_orders,Số lượng đơn hàng ngày,2024-10-09,HistGradientBoosting Regressor Tuned,5,8.860654351416665,-3.860654351416665,3.860654351416665
+daily_orders,Số lượng đơn hàng ngày,2024-10-10,HistGradientBoosting Regressor Tuned,10,8.743230054453853,1.2567699455461465,1.2567699455461465
+daily_orders,Số lượng đơn hàng ngày,2024-10-11,HistGradientBoosting Regressor Tuned,7,9.337965520555208,-2.3379655205552083,2.3379655205552083
+daily_orders,Số lượng đơn hàng ngày,2024-10-12,HistGradientBoosting Regressor Tuned,4,9.09096270865552,-5.090962708655519,5.090962708655519
+daily_orders,Số lượng đơn hàng ngày,2024-10-13,HistGradientBoosting Regressor Tuned,13,9.870825260710358,3.129174739289642,3.129174739289642
+daily_orders,Số lượng đơn hàng ngày,2024-10-14,HistGradientBoosting Regressor Tuned,6,8.299569713188351,-2.299569713188351,2.299569713188351
+daily_orders,Số lượng đơn hàng ngày,2024-10-15,HistGradientBoosting Regressor Tuned,12,8.520411421533229,3.479588578466771,3.479588578466771
+daily_orders,Số lượng đơn hàng ngày,2024-10-16,HistGradientBoosting Regressor Tuned,10,9.901411508558375,0.09858849144162463,0.09858849144162463
+daily_orders,Số lượng đơn hàng ngày,2024-10-17,HistGradientBoosting Regressor Tuned,10,9.338677473240562,0.661322526759438,0.661322526759438
+daily_orders,Số lượng đơn hàng ngày,2024-10-18,HistGradientBoosting Regressor Tuned,4,9.181867248636044,-5.181867248636044,5.181867248636044
+daily_orders,Số lượng đơn hàng ngày,2024-10-19,HistGradientBoosting Regressor Tuned,9,8.663633810744107,0.3363661892558927,0.3363661892558927
+daily_orders,Số lượng đơn hàng ngày,2024-10-20,HistGradientBoosting Regressor Tuned,4,7.8381195321333434,-3.8381195321333434,3.8381195321333434
+daily_orders,Số lượng đơn hàng ngày,2024-10-21,HistGradientBoosting Regressor Tuned,14,8.095639001552337,5.904360998447663,5.904360998447663
+daily_orders,Số lượng đơn hàng ngày,2024-10-22,HistGradientBoosting Regressor Tuned,6,8.937378145116528,-2.9373781451165275,2.9373781451165275
+daily_orders,Số lượng đơn hàng ngày,2024-10-23,HistGradientBoosting Regressor Tuned,5,8.976810204414212,-3.976810204414212,3.976810204414212
+daily_orders,Số lượng đơn hàng ngày,2024-10-24,HistGradientBoosting Regressor Tuned,13,8.671583553759389,4.328416446240611,4.328416446240611
+daily_orders,Số lượng đơn hàng ngày,2024-10-25,HistGradientBoosting Regressor Tuned,9,8.291662581533513,0.7083374184664866,0.7083374184664866
+daily_orders,Số lượng đơn hàng ngày,2024-10-26,HistGradientBoosting Regressor Tuned,11,8.508113772871228,2.491886227128772,2.491886227128772
+daily_orders,Số lượng đơn hàng ngày,2024-10-27,HistGradientBoosting Regressor Tuned,5,8.453443854621044,-3.453443854621044,3.453443854621044
+daily_orders,Số lượng đơn hàng ngày,2024-10-28,HistGradientBoosting Regressor Tuned,8,8.540899141081262,-0.5408991410812618,0.5408991410812618
+daily_orders,Số lượng đơn hàng ngày,2024-10-29,HistGradientBoosting Regressor Tuned,7,8.195175464366244,-1.195175464366244,1.195175464366244
+daily_orders,Số lượng đơn hàng ngày,2024-10-30,HistGradientBoosting Regressor Tuned,13,8.567992050195897,4.4320079498041025,4.4320079498041025
+daily_orders,Số lượng đơn hàng ngày,2024-10-31,HistGradientBoosting Regressor Tuned,8,7.286229253572671,0.7137707464273291,0.7137707464273291
+daily_orders,Số lượng đơn hàng ngày,2024-11-01,HistGradientBoosting Regressor Tuned,9,8.385941491763669,0.6140585082363312,0.6140585082363312
+daily_orders,Số lượng đơn hàng ngày,2024-11-02,HistGradientBoosting Regressor Tuned,5,8.252648617560656,-3.2526486175606557,3.2526486175606557
+daily_orders,Số lượng đơn hàng ngày,2024-11-03,HistGradientBoosting Regressor Tuned,12,8.056204126503781,3.943795873496219,3.943795873496219
+daily_orders,Số lượng đơn hàng ngày,2024-11-04,HistGradientBoosting Regressor Tuned,4,8.554783414231114,-4.554783414231114,4.554783414231114

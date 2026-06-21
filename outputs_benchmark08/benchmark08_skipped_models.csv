@@ -1,0 +1,2 @@
+﻿model,reason
+TabPFN,Tắt mặc định để tránh yêu cầu đăng nhập/license và lỗi socket Windows; có thể bật ENABLE_TABPFN=True nếu muốn thử riêng.

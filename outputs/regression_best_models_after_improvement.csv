@@ -1,0 +1,3 @@
+﻿target,target_display,model,model_group,target_transform,MAE,MSE,RMSE,NMAE,WAPE,R2,Bias_ME,cv_best_mae,train_time_seconds,predict_time_seconds,best_params
+daily_orders,Số lượng đơn hàng ngày,Moving Average 28 days,Baseline,None,2.4335403726708074,9.197692990239572,3.0327698544794943,0.30452355044302815,0.3045235504430281,-0.06305923404109581,-0.10869565217391303,,0.0,0.0,{}
+daily_revenue,Doanh thu ngày,Lasso Regression Tuned with log target,Tuned ML,log1p,2881.125351686282,13929365.235558145,3732.206483510545,0.36517056805766457,0.36517056805766457,-0.015320027779621714,458.4520962869041,0.40367457013409147,1.303863525390625,0.0,{'model__alpha': np.float64(4.52035365636025)}

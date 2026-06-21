@@ -1,0 +1,30 @@
+﻿feature,importance
+num__price,0.17962491150860066
+num__mrp,0.17016074800619452
+num__hist_std_monthly_revenue,0.12735327549876307
+num__hist_mean_monthly_revenue,0.10253582596818427
+num__hist_total_revenue,0.0986247423177163
+num__estimated_hist_profit,0.061061440609443185
+num__discount_rate,0.03258936693829578
+num__hist_std_monthly_quantity,0.03182794534020785
+num__hist_mean_monthly_quantity,0.02766635113468247
+num__hist_demand_cv,0.024669944026584633
+num__hist_total_quantity,0.024292596277976156
+num__hist_revenue_cv,0.0235263229387822
+num__hist_sales_frequency,0.01822167745055509
+num__hist_total_orders,0.013953713552354304
+num__hist_active_months,0.013154118059361022
+num__hist_max_monthly_quantity,0.012411960364149524
+num__shelf_life_days,0.010001066609177293
+num__margin_percentage,0.00848245760153963
+cat__category_Pharmacy,0.0034654147922686934
+cat__category_Fruits & Vegetables,0.0025063980481986026
+cat__category_Dairy & Breakfast,0.002409452978741407
+cat__category_Pet Care,0.002135045186961413
+cat__category_Instant & Frozen Food,0.0017689664022184572
+cat__category_Household Care,0.0016923079037865117
+cat__category_Cold Drinks & Juices,0.0014960838564435672
+cat__category_Snacks & Munchies,0.0014822920309830862
+cat__category_Grocery & Staples,0.0011284576780273268
+cat__category_Personal Care,0.001067983668061464
+cat__category_Baby Care,0.0006891332517415524
